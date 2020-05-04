@@ -22,6 +22,7 @@ Games removed at last check:
 * *Battle Realms + Winter Of The Wolf (also available on Steam)*
 * *Rayman® Forever (also on Uplay)*
 
+**If appropriate, please update the *New games added* and *Games removed* sections after editing entries in the alphabetic list.**
 
 ---
 
