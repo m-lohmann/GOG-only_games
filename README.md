@@ -11,7 +11,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-*last check and cleanup: 2020-05-04, 16:44 GMT+0100 (Central European Standard Time)*
+**last check and cleanup: 2020-05-04, 16:44 GMT+0100 (Central European Standard Time)**
 
 New games added at last check:
 
@@ -22,7 +22,7 @@ Games removed at last check:
 * *Battle Realms + Winter Of The Wolf (also available on Steam)*
 * *Rayman® Forever (also on Uplay)*
 
-**If appropriate, please update the *New games added* and *Games removed* sections after editing entries in the alphabetic list.**
+**If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
 ---
 
