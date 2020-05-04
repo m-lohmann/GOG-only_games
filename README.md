@@ -11,11 +11,11 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-04, 16:44 GMT+0100 (Central European Standard Time)**
+**last check and cleanup: 2020-05-05, 23:40 UTC (Universal Coordinated Time)**
 
 New games added at last check:
 
-* *None*
+* **FREE** tag added to Tyrian2000
 
 Games removed at last check:
 
@@ -269,7 +269,7 @@ T
 * ✔ [Total Annihilation: Kingdoms + Iron Plague](https://www.gog.com/game/total_annihilation_kingdoms)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
-* ✔ [Tyrian 2000](https://www.gog.com/game/tyrian_2000)
+* ✔ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
 
 U
 
