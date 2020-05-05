@@ -52,7 +52,7 @@ B
 * [~~Battle Realms + Winter Of The Wolf~~](https://www.gog.com/game/battle_realms_winter_of_the_wolf) (also available on Steam)
 * ✔ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
-* [Bladerunner](https://www.gog.com/game/blade_runner) (added 2019-12-17)
+* ✔ [Bladerunner](https://www.gog.com/game/blade_runner)
 
 C
 
