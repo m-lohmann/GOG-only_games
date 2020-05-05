@@ -11,7 +11,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-05, 17:28 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-05, 19:52 UTC (Universal Coordinated Time)**
 
 New games added at last check:
 
@@ -22,6 +22,7 @@ Games removed at last check:
 * *Battle Realms + Winter Of The Wolf (also available on Steam)*
 * *Rayman® Forever (also on Uplay)*
 * *Total Annihilation: Commander Pack* (also on Steam as *Total Annihilation*)
+* *Gothic 3, Gothic 3: Forsaken Gods Enhanced Edition*, cleanup of older entry
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -116,8 +117,6 @@ G
 
 * ✔ [Gangsters: Organized Crime](https://www.gog.com/game/gangsters_organized_crime)
 * ✔ [Gex](https://www.gog.com/game/gex)
-* ? ~~[Gothic 3](https://www.gog.com/game/gothic_3)~~ (Steam version playable again, according to *H5lix*)
-* ? ~~[Gothic 3: Forsaken Gods Enhanced Edition](https://www.gog.com/game/gothic_3_forsaken_gods)~~ (see Gothic 3)
 
 H
 
