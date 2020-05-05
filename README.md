@@ -11,7 +11,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-05, 23:40 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-05, 17:28 UTC (Universal Coordinated Time)**
 
 New games added at last check:
 
@@ -21,6 +21,7 @@ Games removed at last check:
 
 * *Battle Realms + Winter Of The Wolf (also available on Steam)*
 * *Rayman® Forever (also on Uplay)*
+* *Total Annihilation: Commander Pack* (also on Steam as *Total Annihilation*)
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -262,10 +263,10 @@ T
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
-* ✔ [Total Annihilation: Commander Pack](https://www.gog.com/game/total_anihilation_commander_pack), contains:
+* ✔ [~~Total Annihilation: Commander Pack~~](https://www.gog.com/game/total_anihilation_commander_pack) (also available on Steam as *Total Annihilation*)
     * ✔ ~~Total Annihilation~~ (also on Steam)
-    * ✔ Total Annihilation: The Core Contingency
-    * ✔ Total Annihilation: Battle Tactics
+    * ✔ ~~Total Annihilation: The Core Contingency~~ (also on Steam)
+    * ✔ ~~Total Annihilation: Battle Tactics~~ (also on Steam)
 * ✔ [Total Annihilation: Kingdoms + Iron Plague](https://www.gog.com/game/total_annihilation_kingdoms)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
