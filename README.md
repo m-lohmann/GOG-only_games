@@ -11,7 +11,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-08, 20:58 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-08, 22.42 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -25,7 +25,8 @@ Games removed at last check:
 
 * *Sin Gold* (also on Steam)
 * *Atlantis: The Lost Tales* (also on Zoom Store)
-* *(Atlantis 3: The New World)* (also on Zoom Store)
+* *Atlantis 3: The New World* (also on Zoom Store)
+* *Postal: Classic and Uncut* (also on Steam)
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -208,9 +209,8 @@ P
 * ✔ [Patrician 1+2](https://www.gog.com/game/patrician_1_2)
 * ✔ [Pax Imperia - Eminent Domain](https://www.gog.com/game/pax_imperia_eminent_domain)
 * ✔ [Personal Nightmare](https://www.gog.com/game/personal_nightmare)
-* ✔ [Postal: Classic and Uncut](https://www.gog.com/game/postal_classic_and_uncut) [**Free!**]
+* ✔ [~~Postal: Classic and Uncut~~](https://www.gog.com/game/postal_classic_and_uncut) [**Free!**] (also on Steam)
     * aka *Postal Plus*, bundled Postal and the Special Delivery expansion
-    * Steam version only contains the original Postal without the 2002 expansion.
 * ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening+)
 * ✔ [Pro Pinball Big Race USA](https://www.gog.com/game/pro_pinball_big_race_usa)
 * ✔ [Pro Pinball Fantastic Journey](https://www.gog.com/game/pro_pinball_fantastic_journey)
