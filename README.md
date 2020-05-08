@@ -4,25 +4,28 @@ Because this gets requested so often, here is a repost of a current list of game
 
 Although you still might get old CDs or DVDs of a lot of games, GOG maintains compatibility of these games with current OSes. This list just got cross-checked against the [List of GOG games that aren't available in Steam](https://www.gog.com/forum/general/list_of_gog_games_that_arent_available_in_steam/page6) list on GOG. Here is a list of games that you only get on GOG or where only the GOG version is playable, or where other platforms are missing add-ons and DLCs, or other features:
 
-My list of GOG exclusive games (games that are neither on Steam nor on Origin), based on the link above. (`✔` = Cross-checked against Steam, Origin, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
+My list of GOG exclusive games (games that are neither on Steam nor on Origin), based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
 I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam. If the status of a game is not sure, it’ll be marked with a `?`.
 
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-05, 19:52 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-08, 20:58 UTC (Universal Coordinated Time)**
+
+New platform for cross checks added:
+
+* [Zoom Store](https://www.zoom-platform.com/#store)
 
 New games added at last check:
 
-* **FREE** tag added to Tyrian2000
+* *Dracula Trilogy*: Steam version is censored.
 
 Games removed at last check:
 
-* *Battle Realms + Winter Of The Wolf (also available on Steam)*
-* *Rayman® Forever (also on Uplay)*
-* *Total Annihilation: Commander Pack* (also on Steam as *Total Annihilation*)
-* *Gothic 3, Gothic 3: Forsaken Gods Enhanced Edition*, cleanup of older entry
+* *Sin Gold* (also on Steam)
+* *Atlantis: The Lost Tales* (also on Zoom Store)
+* *(Atlantis 3: The New World)* (also on Zoom Store)
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -42,8 +45,8 @@ A
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
 * ✔ [Archimedean Dynasty](https://www.gog.com/game/archimedean_dynasty)
 * ✔ [Army Men: World War](https://www.gog.com/game/army_men_world_war)
-* ✔ [Atlantis: The Lost Tales](https://www.gog.com/game/atlantis_the_lost_tales)
-* ✔ [Atlantis 3: The New World](https://www.gog.com/game/atlantis_3_the_new_world)
+* ✔ [~~Atlantis: The Lost Tales~~](https://www.gog.com/game/atlantis_the_lost_tales) (also on Zoom Store)
+* ✔ [~~Atlantis 3: The New World~~](https://www.gog.com/game/atlantis_3_the_new_world) (also on Zoom Store)
 * ✔ [Avernum: The Complete Saga (2000)](https://www.gog.com/game/avernum_the_complete_saga)
 
 B
@@ -76,7 +79,7 @@ D
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
-* ✔ [Dracula Trilogy](https://www.gog.com/game/dracula_trilogy), (also available on Steam, but GOG version has wider language support, e.g. French)
+* ✔ [Dracula Trilogy](https://www.gog.com/game/dracula_trilogy), (also available on Steam, but GOG version has wider language support, e.g. French. The Steam version is also censored.)
 * ✔ [Dungeons & Dragons: Dark Sun Series](https://www.gog.com/game/dungeons_dragons_dark_sun_series)
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
 * ✔ [Dungeons & Dragons: Krynn Series](https://www.gog.com/game/dungeons_dragons_krynn_series)
@@ -205,7 +208,7 @@ P
 * ✔ [Patrician 1+2](https://www.gog.com/game/patrician_1_2)
 * ✔ [Pax Imperia - Eminent Domain](https://www.gog.com/game/pax_imperia_eminent_domain)
 * ✔ [Personal Nightmare](https://www.gog.com/game/personal_nightmare)
-* [Postal: Classic and Uncut](https://www.gog.com/game/postal_classic_and_uncut) [**Free!**]
+* ✔ [Postal: Classic and Uncut](https://www.gog.com/game/postal_classic_and_uncut) [**Free!**]
     * aka *Postal Plus*, bundled Postal and the Special Delivery expansion
     * Steam version only contains the original Postal without the 2002 expansion.
 * ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening+)
@@ -237,8 +240,7 @@ S
 * ✔ [Silent Hunter® 2](https://www.gog.com/game/silent_hunter_2)
 * ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
 * ✔ [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d)
-* ✔ [SiN Gold](https://www.gog.com/game/sin_gold) (also on Steam, [but only as a bonus with missing features, 
-but with partly changed artwork](https://steamdb.info/sub/70/apps/) if you buy SiN Episodes: Emergence.)
+* ✔ [~~SiN Gold~~](https://www.gog.com/game/sin_gold) (also on Steam)
     * US version is indexed in Germany, you need to use a VPN or go on vacation in a neighboring country for a purchase.
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
