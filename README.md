@@ -27,12 +27,12 @@ Games removed at last check:
 
 * *1nsane* (also on Zoom)
 * *Dracula Trilogy* (also on Zoom)
-* Empire Earth Gold Edition (also on Zoom)
-* Empire Earth 2 Gold Edition (also on Zoom)
-* Empire Earth 3 (also on Zoom)
-* I.G.I. 2: Covert Strike (also on Zoom)
-* Konung 1+2 (also on Zoom)
-* Master Of Orion 1+2 (also on Zoom and Steam)
+* *Empire Earth Gold Edition* (also on Zoom)
+* *Empire Earth 2 Gold Edition* (also on Zoom)
+* *Empire Earth 3* (also on Zoom)
+* *I.G.I. 2: Covert Strike* (also on Zoom)
+* *Konung 1+2* (also on Zoom)
+* *Master Of Orion 1+2* (also on Zoom and Steam)
 
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
