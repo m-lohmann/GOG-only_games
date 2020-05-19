@@ -6,12 +6,14 @@ Although you still might get old CDs or DVDs of a lot of games, GOG maintains co
 
 My list of GOG exclusive games (games that are neither on Steam nor on Origin), based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
+**New**: Games that are free on GOG are marked with the symbol `­∅`.
+
 I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam. If the status of a game is not sure, it’ll be marked with a `?`.
 
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-08, 22.42 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-19, 00:15 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -19,14 +21,19 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *Dracula Trilogy*: Steam version is censored.
+* *None*
 
 Games removed at last check:
 
-* *Sin Gold* (also on Steam)
-* *Atlantis: The Lost Tales* (also on Zoom Store)
-* *Atlantis 3: The New World* (also on Zoom Store)
-* *Postal: Classic and Uncut* (also on Steam)
+* *1nsane* (also on Zoom)
+* *Dracula Trilogy* (also on Zoom)
+* Empire Earth Gold Edition (also on Zoom)
+* Empire Earth 2 Gold Edition (also on Zoom)
+* Empire Earth 3 (also on Zoom)
+* I.G.I. 2: Covert Strike (also on Zoom)
+* Konung 1+2 (also on Zoom)
+* Master Of Orion 1+2 (also on Zoom and Steam)
+
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -34,7 +41,7 @@ Games removed at last check:
 
 0-9
 
-* ✔ [1nsane](https://www.gog.com/game/1nsane)
+* ✔ [~~1nsane~~](https://www.gog.com/game/1nsane) (also on Zoom)
 
 A
 
@@ -46,8 +53,8 @@ A
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
 * ✔ [Archimedean Dynasty](https://www.gog.com/game/archimedean_dynasty)
 * ✔ [Army Men: World War](https://www.gog.com/game/army_men_world_war)
-* ✔ [~~Atlantis: The Lost Tales~~](https://www.gog.com/game/atlantis_the_lost_tales) (also on Zoom Store)
-* ✔ [~~Atlantis 3: The New World~~](https://www.gog.com/game/atlantis_3_the_new_world) (also on Zoom Store)
+* ✔ [~~Atlantis: The Lost Tales~~](https://www.gog.com/game/atlantis_the_lost_tales) (also on Zoom)
+* ✔ [~~Atlantis 3: The New World~~](https://www.gog.com/game/atlantis_3_the_new_world) (also on Zoom)
 * ✔ [Avernum: The Complete Saga (2000)](https://www.gog.com/game/avernum_the_complete_saga)
 
 B
@@ -55,8 +62,7 @@ B
 * ✔ [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
-* [~~Battle Realms + Winter Of The Wolf~~](https://www.gog.com/game/battle_realms_winter_of_the_wolf) (also available on Steam)
-* ✔ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
+* ∅ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ✔ [Bladerunner](https://www.gog.com/game/blade_runner)
 
@@ -80,7 +86,7 @@ D
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
-* ✔ [Dracula Trilogy](https://www.gog.com/game/dracula_trilogy), (also available on Steam, but GOG version has wider language support, e.g. French. The Steam version is also censored.)
+* ✔ [~~Dracula Trilogy~~](https://www.gog.com/game/dracula_trilogy), (censored version also available on Steam, also available on Zoom)
 * ✔ [Dungeons & Dragons: Dark Sun Series](https://www.gog.com/game/dungeons_dragons_dark_sun_series)
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
 * ✔ [Dungeons & Dragons: Krynn Series](https://www.gog.com/game/dungeons_dragons_krynn_series)
@@ -100,9 +106,9 @@ E
 * ✔ [Elder Scrolls Adventures: The Redguard](https://www.gog.com/game/the_elder_scrolls_adventures_redguard)
 * ✔ [Elder Scrolls Legend: Battlespire, An](https://www.gog.com/game/an_elder_scrolls_legend_battlespire)
 * ✔ [Emperor: Rise of the Middle Kingdom](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom)
-* ✔ [Empire Earth Gold Edition](https://www.gog.com/game/empire_earth_gold_edition)
-* ✔ [Empire Earth 2 Gold Edition](https://www.gog.com/game/empire_earth_2_gold)
-* ✔ [Empire Earth 3](https://www.gog.com/game/empire_earth_3)
+* ✔ [~~Empire Earth Gold Edition~~](https://www.gog.com/game/empire_earth_gold_edition) (also on Zoom)
+* ✔ [~~Empire Earth 2 Gold Edition~~](https://www.gog.com/game/empire_earth_2_gold) (also on Zoom)
+* ✔ [~~Empire Earth 3~~](https://www.gog.com/game/empire_earth_3) (also on Zoom)
 * ✔ [Entomorph: Plague of the Darkfall](https://www.gog.com/game/entomorph_plague_of_the_darkfall)
 * ✔ [Evil Islands](https://www.gog.com/game/evil_islands)
 
@@ -138,7 +144,7 @@ H
 
 I
 
-* ✔ [I.G.I. 2: Covert Strike](https://www.gog.com/game/i_g_i_2_covert_strike)
+* ✔ [~~I.G.I. 2: Covert Strike~~](https://www.gog.com/game/i_g_i_2_covert_strike) (also on Zoom)
 * ✔ [Icewind Dale: Enhanced Edition](https://www.gog.com/game/icewind_dale_enhanced_edition), also contains original version
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack), contains
@@ -165,7 +171,7 @@ J
 
 K
 
-* ✔ [Konung 1+2](https://www.gog.com/game/konung_1_2), includes
+* ✔ [~~Konung 1+2~~](https://www.gog.com/game/konung_1_2) (also on Zoom)
     * Konung: Legend of the North
     * ~~Konung 2: Blood of Titans~~ (also on Steam)
 * ✔ [Krush, Kill ‘N’ Destroy Xtreme](https://www.gog.com/game/krush_kill_n_destroy_xtreme)
@@ -186,7 +192,7 @@ M
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Master Of Magic](https://www.gog.com/game/master_of_magic)
-* ✔ [Master Of Orion 1+2](https://www.gog.com/game/master_of_orion_1_2) (Only GOG version playable, according to *RememberCitadel*, also available on Steam)
+* ✔ [~~Master Of Orion 1+2~~](https://www.gog.com/game/master_of_orion_1_2) (also on Zoom and Steam)
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition)
 * ✔ [Might And Magic® 7: For Blood And Honor®](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
 * ✔ [Might And Magic® 8: Day Of The Destroyer™](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
@@ -209,8 +215,6 @@ P
 * ✔ [Patrician 1+2](https://www.gog.com/game/patrician_1_2)
 * ✔ [Pax Imperia - Eminent Domain](https://www.gog.com/game/pax_imperia_eminent_domain)
 * ✔ [Personal Nightmare](https://www.gog.com/game/personal_nightmare)
-* ✔ [~~Postal: Classic and Uncut~~](https://www.gog.com/game/postal_classic_and_uncut) [**Free!**] (also on Steam)
-    * aka *Postal Plus*, bundled Postal and the Special Delivery expansion
 * ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening+)
 * ✔ [Pro Pinball Big Race USA](https://www.gog.com/game/pro_pinball_big_race_usa)
 * ✔ [Pro Pinball Fantastic Journey](https://www.gog.com/game/pro_pinball_fantastic_journey)
@@ -220,7 +224,6 @@ R
 
 * ✔ [Rage Of Mages](https://www.gog.com/game/rage_of_mages)
 * ✔ [Rage Of Mages II: Necromancer](https://www.gog.com/game/rage_of_mages_ii_necromancer)
-* [~~Rayman® Forever~~](https://www.gog.com/game/rayman_forever) (also on Uplay)
 * ✔ [Rayman 2: The Great Escape](https://www.gog.com/game/rayman_2_the_great_escape)
 * ✔ [Rayman 3: Hoodlum Havoc](https://www.gog.com/game/rayman_3_hoodlum_havoc)
 * ✔ [Redneck Rampage Collection](https://www.gog.com/game/redneck_rampage_collection), includes
@@ -240,8 +243,6 @@ S
 * ✔ [Silent Hunter® 2](https://www.gog.com/game/silent_hunter_2)
 * ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
 * ✔ [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d)
-* ✔ [~~SiN Gold~~](https://www.gog.com/game/sin_gold) (also on Steam)
-    * US version is indexed in Germany, you need to use a VPN or go on vacation in a neighboring country for a purchase.
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
 * ✔ [Soldier of Fortune: Payback](https://www.gog.com/game/soldier_of_fortune_payback)
@@ -256,7 +257,7 @@ S
 
 T
 
-* ✔ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
+* ∅ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
 * ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2), contains:
     * ✔ Mean Streets (also on Steam, but GOG version has wider language support (e.g. French))
@@ -264,18 +265,14 @@ T
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
-* ✔ [~~Total Annihilation: Commander Pack~~](https://www.gog.com/game/total_anihilation_commander_pack) (also available on Steam as *Total Annihilation*)
-    * ✔ ~~Total Annihilation~~ (also on Steam)
-    * ✔ ~~Total Annihilation: The Core Contingency~~ (also on Steam)
-    * ✔ ~~Total Annihilation: Battle Tactics~~ (also on Steam)
 * ✔ [Total Annihilation: Kingdoms + Iron Plague](https://www.gog.com/game/total_annihilation_kingdoms)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
-* ✔ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
+* ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
 
 U
 
-* ✔ [Ultima™ Worlds Of Adventure 2: Martian Dreams **FREE!**](https://www.gog.com/game/ultima_worlds_of_adventure_2_martian_dreams)
+* ∅ [Ultima™ Worlds Of Adventure 2: Martian Dreams **FREE!**](https://www.gog.com/game/ultima_worlds_of_adventure_2_martian_dreams)
 
 V
 
@@ -293,7 +290,7 @@ W
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
 * ✔ [Wing Commander™: Armada](https://www.gog.com/game/wing_commander_armada)
-* ✔ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
+* ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
 
 X
