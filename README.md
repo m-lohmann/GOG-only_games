@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-19, 00:15 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-05-19, 15:51 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -21,7 +21,8 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *None*
+* *Toonstruck*: also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available.
+* *Info added*: *The Incredible Machine Mega Pack* is also available on the Humble Trove, but not in the Humble Store.
 
 Games removed at last check:
 
@@ -147,7 +148,7 @@ I
 * ✔ [~~I.G.I. 2: Covert Strike~~](https://www.gog.com/game/i_g_i_2_covert_strike) (also on Zoom)
 * ✔ [Icewind Dale: Enhanced Edition](https://www.gog.com/game/icewind_dale_enhanced_edition), also contains original version
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
-* ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack), contains
+* ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) (also available on the Humble Trove, but not in the Humble Store)
     * Even More Incredible Machine
     * The Incredible Machine 3 (contains all levels from The Incredible Machine 2)
     * Contraptions
@@ -264,6 +265,7 @@ T
     * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
+* ♥ [**Toonstruck**](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Annihilation: Kingdoms + Iron Plague](https://www.gog.com/game/total_annihilation_kingdoms)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
