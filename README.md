@@ -13,28 +13,25 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-05-19, 15:51 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-06-22 19:24 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
 * [Zoom Store](https://www.zoom-platform.com/#store)
 
+* Gamersgate (only if checked by others)
+* Fireflowergames (only if checked by others)
+
 New games added at last check:
 
-* *Toonstruck*: also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available.
-* *Info added*: *The Incredible Machine Mega Pack* is also available on the Humble Trove, but not in the Humble Store.
+* *None*
 
 Games removed at last check:
 
-* *1nsane* (also on Zoom)
-* *Dracula Trilogy* (also on Zoom)
-* *Empire Earth Gold Edition* (also on Zoom)
-* *Empire Earth 2 Gold Edition* (also on Zoom)
-* *Empire Earth 3* (also on Zoom)
-* *I.G.I. 2: Covert Strike* (also on Zoom)
-* *Konung 1+2* (also on Zoom)
-* *Master Of Orion 1+2* (also on Zoom and Steam)
-
+* *Alien Nations*, also on Gamersgate
+* *Evil Islands*, also on Gamersgate
+* *Silent Hunter® 2*, also on UPlay
+* *Total Annihilation: Kingdoms + Iron Plague*, also on UPlay
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -49,13 +46,11 @@ A
 * ✔ [Adventures of Willy Beamish, The](https://www.gog.com/game/the_adventures_of_willy_beamish)
 * ✔ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
 * ✔ [Al-Qadim: The Genie's Curse](https://www.gog.com/game/alqadim_the_genies_curse)
-* ✔ [Alien Nations](https://www.gog.com/game/alien_nations)
+* ✔ [~~Alien Nations~~](https://www.gog.com/game/alien_nations) (also on Gamersgate)
 * ✔ [Anvil of Dawn](https://www.gog.com/game/anvil_of_dawn)
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
 * ✔ [Archimedean Dynasty](https://www.gog.com/game/archimedean_dynasty)
 * ✔ [Army Men: World War](https://www.gog.com/game/army_men_world_war)
-* ✔ [~~Atlantis: The Lost Tales~~](https://www.gog.com/game/atlantis_the_lost_tales) (also on Zoom)
-* ✔ [~~Atlantis 3: The New World~~](https://www.gog.com/game/atlantis_3_the_new_world) (also on Zoom)
 * ✔ [Avernum: The Complete Saga (2000)](https://www.gog.com/game/avernum_the_complete_saga)
 
 B
@@ -107,11 +102,8 @@ E
 * ✔ [Elder Scrolls Adventures: The Redguard](https://www.gog.com/game/the_elder_scrolls_adventures_redguard)
 * ✔ [Elder Scrolls Legend: Battlespire, An](https://www.gog.com/game/an_elder_scrolls_legend_battlespire)
 * ✔ [Emperor: Rise of the Middle Kingdom](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom)
-* ✔ [~~Empire Earth Gold Edition~~](https://www.gog.com/game/empire_earth_gold_edition) (also on Zoom)
-* ✔ [~~Empire Earth 2 Gold Edition~~](https://www.gog.com/game/empire_earth_2_gold) (also on Zoom)
-* ✔ [~~Empire Earth 3~~](https://www.gog.com/game/empire_earth_3) (also on Zoom)
 * ✔ [Entomorph: Plague of the Darkfall](https://www.gog.com/game/entomorph_plague_of_the_darkfall)
-* ✔ [Evil Islands](https://www.gog.com/game/evil_islands)
+* ✔ [~~Evil Islands~~](https://www.gog.com/game/evil_islands) (also on Gamersgate)
 
 F
 
@@ -145,7 +137,6 @@ H
 
 I
 
-* ✔ [~~I.G.I. 2: Covert Strike~~](https://www.gog.com/game/i_g_i_2_covert_strike) (also on Zoom)
 * ✔ [Icewind Dale: Enhanced Edition](https://www.gog.com/game/icewind_dale_enhanced_edition), also contains original version
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) (also available on the Humble Trove, but not in the Humble Store)
@@ -193,7 +184,6 @@ M
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Master Of Magic](https://www.gog.com/game/master_of_magic)
-* ✔ [~~Master Of Orion 1+2~~](https://www.gog.com/game/master_of_orion_1_2) (also on Zoom and Steam)
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition)
 * ✔ [Might And Magic® 7: For Blood And Honor®](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
 * ✔ [Might And Magic® 8: Day Of The Destroyer™](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
@@ -241,7 +231,7 @@ S
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri), a bundle of
     * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
     * ✔ Sid Meier's Alien Crossfire™
-* ✔ [Silent Hunter® 2](https://www.gog.com/game/silent_hunter_2)
+* ✔ [~~Silent Hunter® 2~~](https://www.gog.com/game/silent_hunter_2) (also on UPlay)
 * ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
 * ✔ [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
@@ -267,7 +257,7 @@ T
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ♥ [**Toonstruck**](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
-* ✔ [Total Annihilation: Kingdoms + Iron Plague](https://www.gog.com/game/total_annihilation_kingdoms)
+* ✔ [~~Total Annihilation: Kingdoms + Iron Plague~~](https://www.gog.com/game/total_annihilation_kingdoms) (also on Uplay)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
 * ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
