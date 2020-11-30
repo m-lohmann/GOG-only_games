@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-06-22 19:24 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-11-30 21:15 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -24,14 +24,12 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *None*
+* *Mortal Kombat 4*
+* *Silent Hill 4: The Room*
 
 Games removed at last check:
 
-* *Alien Nations*, also on Gamersgate
-* *Evil Islands*, also on Gamersgate
-* *Silent Hunter® 2*, also on UPlay
-* *Total Annihilation: Kingdoms + Iron Plague*, also on UPlay
+* *NONE*
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -39,14 +37,11 @@ Games removed at last check:
 
 0-9
 
-* ✔ [~~1nsane~~](https://www.gog.com/game/1nsane) (also on Zoom)
-
 A
 
 * ✔ [Adventures of Willy Beamish, The](https://www.gog.com/game/the_adventures_of_willy_beamish)
 * ✔ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
 * ✔ [Al-Qadim: The Genie's Curse](https://www.gog.com/game/alqadim_the_genies_curse)
-* ✔ [~~Alien Nations~~](https://www.gog.com/game/alien_nations) (also on Gamersgate)
 * ✔ [Anvil of Dawn](https://www.gog.com/game/anvil_of_dawn)
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
 * ✔ [Archimedean Dynasty](https://www.gog.com/game/archimedean_dynasty)
@@ -82,7 +77,6 @@ D
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
-* ✔ [~~Dracula Trilogy~~](https://www.gog.com/game/dracula_trilogy), (censored version also available on Steam, also available on Zoom)
 * ✔ [Dungeons & Dragons: Dark Sun Series](https://www.gog.com/game/dungeons_dragons_dark_sun_series)
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
 * ✔ [Dungeons & Dragons: Krynn Series](https://www.gog.com/game/dungeons_dragons_krynn_series)
@@ -103,7 +97,6 @@ E
 * ✔ [Elder Scrolls Legend: Battlespire, An](https://www.gog.com/game/an_elder_scrolls_legend_battlespire)
 * ✔ [Emperor: Rise of the Middle Kingdom](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom)
 * ✔ [Entomorph: Plague of the Darkfall](https://www.gog.com/game/entomorph_plague_of_the_darkfall)
-* ✔ [~~Evil Islands~~](https://www.gog.com/game/evil_islands) (also on Gamersgate)
 
 F
 
@@ -189,6 +182,7 @@ M
 * ✔ [Might And Magic® 8: Day Of The Destroyer™](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
 * ✔ [Might And Magic® 9](https://www.gog.com/game/might_and_magic_9)
 * ✔ [Mortal Kombat 1+2+3](https://www.gog.com/game/mortal_kombat_123)
+* ✔ [Mortal Kombat 4](https://www.gog.com/game/mortal_kombat_4)
 
 N
 
@@ -231,7 +225,7 @@ S
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri), a bundle of
     * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
     * ✔ Sid Meier's Alien Crossfire™
-* ✔ [~~Silent Hunter® 2~~](https://www.gog.com/game/silent_hunter_2) (also on UPlay)
+* ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
 * ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
 * ✔ [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
@@ -257,7 +251,6 @@ T
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ♥ [**Toonstruck**](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
-* ✔ [~~Total Annihilation: Kingdoms + Iron Plague~~](https://www.gog.com/game/total_annihilation_kingdoms) (also on Uplay)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
 * ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
