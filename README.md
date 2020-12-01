@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-11-30 21:15 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-12-01 14:55 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -24,8 +24,9 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *Mortal Kombat 4*
-* *Silent Hill 4: The Room*
+* *Metal Gear*
+* *Metal Gear Solid*
+* *Metal Gear Solid 2 Substance*
 
 Games removed at last check:
 
@@ -177,6 +178,9 @@ M
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Master Of Magic](https://www.gog.com/game/master_of_magic)
+* ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
+* ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
+* ✔ [Metal Gear Solid 2 Substance](https://www.gog.com/game/metal_gear_solid_2_substance)
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition)
 * ✔ [Might And Magic® 7: For Blood And Honor®](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
 * ✔ [Might And Magic® 8: Day Of The Destroyer™](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
