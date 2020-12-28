@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-12-01 14:55 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2020-12-28 12:07:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -24,9 +24,10 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *Metal Gear*
-* *Metal Gear Solid*
-* *Metal Gear Solid 2 Substance*
+* *New World Computing Bundle*
+* *Planet’s Edge*
+* *Wetlands*
+* *Zephyr*
 
 Games removed at last check:
 
@@ -195,7 +196,10 @@ N
     * Mask of the Betrayer expansion
     * Storm of Zehir expansion
     * Mysteries of Westgate expansion
-
+* ✔ [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle), contains
+    * [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return)
+    * [Wetlands](https://www.gog.com/game/wetlands)
+    * [Zephyr](https://www.gog.com/game/zephyr)
 O
 
 P
@@ -204,6 +208,7 @@ P
 * ✔ [Patrician 1+2](https://www.gog.com/game/patrician_1_2)
 * ✔ [Pax Imperia - Eminent Domain](https://www.gog.com/game/pax_imperia_eminent_domain)
 * ✔ [Personal Nightmare](https://www.gog.com/game/personal_nightmare)
+* ✔ [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
 * ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening+)
 * ✔ [Pro Pinball Big Race USA](https://www.gog.com/game/pro_pinball_big_race_usa)
 * ✔ [Pro Pinball Fantastic Journey](https://www.gog.com/game/pro_pinball_fantastic_journey)
@@ -275,6 +280,7 @@ W
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
+* [Wetlands](https://www.gog.com/game/wetlands), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
 * ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) (also on Origin, but only the GOG version has the DVD quality video cutscenes made available by Chris Roberts, iirc.)
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
@@ -287,3 +293,5 @@ X
 Y
 
 Z
+
+* ✔ [Zephyr](https://www.gog.com/game/zephyr), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
