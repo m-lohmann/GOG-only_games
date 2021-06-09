@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2020-12-28 12:07:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2021-06-09 20:14:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -24,10 +24,7 @@ New platform for cross checks added:
 
 New games added at last check:
 
-* *New World Computing Bundle*
-* *Planet’s Edge*
-* *Wetlands*
-* *Zephyr*
+* *NONE*
 
 Games removed at last check:
 
@@ -151,7 +148,7 @@ J
 
 * ✔ [Jazz Jackrabbit Collection](https://www.gog.com/game/jazz_jackrabbit_collection)
 * ✔ [Jazz Jackrabbit 2 Collection](https://www.gog.com/game/jazz_jackrabbit_2_collection)
-* ✔ [Jill of the Jungle: The Complete Trilogy **FREE!**](https://www.gog.com/game/jill_of_the_jungle_the_complete_trilogy), includes
+* ⊘ [Jill of the Jungle: The Complete Trilogy **FREE!**](https://www.gog.com/game/jill_of_the_jungle_the_complete_trilogy), includes
     * Jill of the Jungle
     * Jill Goes Underground
     * Jill Saves the Prince
@@ -258,7 +255,7 @@ T
     * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
-* ♥ [**Toonstruck**](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
+* ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
