@@ -4,7 +4,7 @@ Because this gets requested so often, here is a repost of a current list of game
 
 Although you still might get old CDs or DVDs of a lot of games, GOG maintains compatibility of these games with current OSes. This list just got cross-checked against the [List of GOG games that aren't available in Steam](https://www.gog.com/forum/general/list_of_gog_games_that_arent_available_in_steam/page6) list on GOG. Here is a list of games that you only get on GOG or where only the GOG version is playable, or where other platforms are missing add-ons and DLCs, or other features:
 
-My list of GOG exclusive games (games that are neither on Steam nor on Origin), based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
+My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
 **New**: Games that are free on GOG are marked with the symbol `­∅`.
 
