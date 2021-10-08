@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2021-06-09 20:14:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2021-10-02 12:47:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -28,7 +28,28 @@ New games added at last check:
 
 Games removed at last check:
 
-* *NONE*
+* [Castles 1+2](https://www.gog.com/game/castles_castles_2)
+    * Castles 1 (available on [Steam](https://store.steampowered.com/app/666660/Castles/))
+    * Castles 2 (available on [Steam](https://store.steampowered.com/app/670180/Castles_II_Siege__Conquest/))
+* [Fantasy General](https://www.gog.com/game/fantasy_general) (available on [Steam](https://store.steampowered.com/app/1741120/Fantasy_General/))
+* [Krush, Kill ‘N’ Destroy Xtreme](https://www.gog.com/game/krush_kill_n_destroy_xtreme) (available on [Steam](https://store.steampowered.com/app/1292170/Krush_Kill_N_Destroy_Xtreme/))
+* [Krush, Kill 'N Destroy 2: Krossfire](https://www.gog.com/game/krush_kill_n_destroy_2_krossfire) (available on [Steam](https://store.steampowered.com/app/1292180/Krush_Kill_N_Destroy_2_Krossfire/))
+* [Master Of Magic](https://www.gog.com/game/master_of_magic) (Still coming soon on GOG and coming soon on [Steam](https://store.steampowered.com/app/1623070/Master_of_Magic/))
+* [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/)), contains
+    * [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return) (available on [Steam](https://store.steampowered.com/app/1367170/Planets_Edge/))
+    * [Wetlands](https://www.gog.com/game/wetlands) (available on [Steam](https://store.steampowered.com/app/1367160/Wetlands/))
+    * [Zephyr](https://www.gog.com/game/zephyr) (available on [Steam](https://store.steampowered.com/app/1423010/Zephyr/))
+* [Pacific General](https://www.gog.com/game/pacific_general) (available on [Steam](https://store.steampowered.com/app/1741130/Pacific_General/))
+* [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return) (available on [Steam](https://store.steampowered.com/app/1367170/Planets_Edge/)), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
+* [Redneck Rampage Collection](https://www.gog.com/game/redneck_rampage_collection), includes
+    * ~~Redneck Rampage~~ (also on [Steam](https://store.steampowered.com/app/565550/Redneck_Rampage/))
+    * ~~Redneck Rampage Rides Again: Arkansas~~ (also on [Steam](https://store.steampowered.com/app/580940/Redneck_Rampage_Rides_Again/))
+    * Redneck Rampage: Suckin' Grits on Route 66 (added to the basegame, [source](https://steamcommunity.com/app/565550/discussions/0/2959418287753576345/)
+* [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d) (available on [Steam](https://store.steampowered.com/app/1417950/Simon_the_Sorcerer_3D/) with more language support(?))
+* [War Wind](https://www.gog.com/game/war_wind) (available on [Steam](https://store.steampowered.com/app/1741140/War_Wind/))
+* [War Wind II: Human Onslaught](https://www.gog.com/game/war_wind_ii_human_onslaught) (available on [Steam](https://store.steampowered.com/app/1741150/War_Wind_II_Human_Onslaught/))
+* [Wetlands](https://www.gog.com/game/wetlands) (available on [Steam](https://store.steampowered.com/app/1367160/Wetlands/)), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
+* [Zephyr](https://www.gog.com/game/zephyr) (available on [Steam]()), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -49,7 +70,10 @@ A
 
 B
 
-* ✔ [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition)
+* ✔ [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition), includes:
+    * ~~Battle Chess~~ (also on [Steam](https://store.steampowered.com/app/622830/Battle_Chess/))
+    * ~~Battle Chess II: Chinese Chess~~ (also on [Steam](https://store.steampowered.com/app/678620/Battle_Chess_II_Chinese_Chess/))
+    * Battle Chess 4000 (Coming soon on [Steam](https://store.steampowered.com/app/1769220/Battle_Chess_4000/))
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
@@ -58,9 +82,6 @@ B
 
 C
 
-* ✔ [Castles 1+2](https://www.gog.com/game/castles_castles_2)
-    * ✔ Castles 1
-    * ✔ Castles 2
 * ✔ [Chaos Overlords](https://www.gog.com/game/chaos_overlords)
 * ✔ [Clive Barker's Undying](https://www.gog.com/game/clive_barkers_undying)
 * ✔ [Colonel's Bequest, The](https://www.gog.com/game/the_colonels_bequest)
@@ -70,7 +91,7 @@ D
 
 * ✔ [D&D Stronghold: Kingdom Simulator](https://www.gog.com/game/dd_stronghold_kingdom_simulator)
 * ✔ [Dagger of Amon Ra, The](https://www.gog.com/game/the_dagger_of_amon_ra)
-* ✔ [Dangerous Dave Pack](https://www.gog.com/game/dangerous_dave_packr)
+* ✔ [Dangerous Dave Pack](https://www.gog.com/game/dangerous_dave_pack)
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
@@ -100,7 +121,6 @@ E
 F
 
 * ✔ [Fallout 3: Game of the Year Edition](https://www.gog.com/game/fallout_3_game_of_the_year_edition) (GOG version is playable — Steam Notice: Fallout 3 is not optimized for Windows 7 and later)
-* ✔ [Fantasy General](https://www.gog.com/game/fantasy_general)
 * ✔ [Final Liberation: Warhammer® Epic 40,000](https://www.gog.com/game/final_liberation_warhammer_epic_40000)
 * ✔ [Forgotten Realms: Demon Stone](https://www.gog.com/game/forgotten_realms_demon_stone)
 * ✔ [Forgotten Realms: The Archives - Collection One](https://www.gog.com/game/forgotten_realms_the_archives_collection_one)
@@ -158,8 +178,6 @@ K
 * ✔ [~~Konung 1+2~~](https://www.gog.com/game/konung_1_2) (also on Zoom)
     * Konung: Legend of the North
     * ~~Konung 2: Blood of Titans~~ (also on Steam)
-* ✔ [Krush, Kill ‘N’ Destroy Xtreme](https://www.gog.com/game/krush_kill_n_destroy_xtreme)
-* ✔ [Krush, Kill 'N Destroy 2: Krossfire](https://www.gog.com/game/krush_kill_n_destroy_2_krossfire)
 
 L
 
@@ -175,7 +193,6 @@ M
     * ✔ ~~Magic Carpet~~ (also on Origin)
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
-* ✔ [Master Of Magic](https://www.gog.com/game/master_of_magic)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
 * ✔ [Metal Gear Solid 2 Substance](https://www.gog.com/game/metal_gear_solid_2_substance)
@@ -193,20 +210,15 @@ N
     * Mask of the Betrayer expansion
     * Storm of Zehir expansion
     * Mysteries of Westgate expansion
-* ✔ [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle), contains
-    * [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return)
-    * [Wetlands](https://www.gog.com/game/wetlands)
-    * [Zephyr](https://www.gog.com/game/zephyr)
+
 O
 
 P
 
-* ✔ [Pacific General](https://www.gog.com/game/pacific_general)
 * ✔ [Patrician 1+2](https://www.gog.com/game/patrician_1_2)
 * ✔ [Pax Imperia - Eminent Domain](https://www.gog.com/game/pax_imperia_eminent_domain)
 * ✔ [Personal Nightmare](https://www.gog.com/game/personal_nightmare)
-* ✔ [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
-* ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening+)
+* ✔ [Privateer 2: The Darkening](https://www.gog.com/game/privateer_2_the_darkening)
 * ✔ [Pro Pinball Big Race USA](https://www.gog.com/game/pro_pinball_big_race_usa)
 * ✔ [Pro Pinball Fantastic Journey](https://www.gog.com/game/pro_pinball_fantastic_journey)
 * ✔ [Project Eden](https://www.gog.com/game/project_eden)
@@ -217,10 +229,6 @@ R
 * ✔ [Rage Of Mages II: Necromancer](https://www.gog.com/game/rage_of_mages_ii_necromancer)
 * ✔ [Rayman 2: The Great Escape](https://www.gog.com/game/rayman_2_the_great_escape)
 * ✔ [Rayman 3: Hoodlum Havoc](https://www.gog.com/game/rayman_3_hoodlum_havoc)
-* ✔ [Redneck Rampage Collection](https://www.gog.com/game/redneck_rampage_collection), includes
-    * ~~Redneck Rampage~~ (also on Steam)
-    * ~~Redneck Rampage Rides Again: Arkansas~~ (also on Steam)
-    * Redneck Rampage: Suckin' Grits on Route 66
 * ✔ [Revenant](https://www.gog.com/game/revenant)
 
 S
@@ -233,7 +241,6 @@ S
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
 * ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
-* ✔ [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
 * ✔ [Soldier of Fortune: Payback](https://www.gog.com/game/soldier_of_fortune_payback)
@@ -269,15 +276,12 @@ V
 
 W
 
-* ✔ [War Wind](https://www.gog.com/game/war_wind)
-* ✔ [War Wind II: Human Onslaught](https://www.gog.com/game/war_wind_ii_human_onslaught)
 * ✔ [Warcraft I & II Bundle](https://www.gog.com/game/warcraft_bundle), contains
     * Warcraft: Orcs and Humans
     * Warcraft II Battle.net Edition
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
-* [Wetlands](https://www.gog.com/game/wetlands), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
 * ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) (also on Origin, but only the GOG version has the DVD quality video cutscenes made available by Chris Roberts, iirc.)
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
@@ -290,5 +294,3 @@ X
 Y
 
 Z
-
-* ✔ [Zephyr](https://www.gog.com/game/zephyr), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle)
