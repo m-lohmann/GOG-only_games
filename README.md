@@ -149,7 +149,6 @@ H
 
 I
 
-* ✔ [Icewind Dale: Enhanced Edition](https://www.gog.com/game/icewind_dale_enhanced_edition), also contains original version
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) (also available on the Humble Trove, but not in the Humble Store)
     * Even More Incredible Machine
