@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2021-10-02 12:47:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2021-10-11 22:08:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -28,28 +28,7 @@ New games added at last check:
 
 Games removed at last check:
 
-* [Castles 1+2](https://www.gog.com/game/castles_castles_2)
-    * Castles 1 (available on [Steam](https://store.steampowered.com/app/666660/Castles/))
-    * Castles 2 (available on [Steam](https://store.steampowered.com/app/670180/Castles_II_Siege__Conquest/))
-* [Fantasy General](https://www.gog.com/game/fantasy_general) (available on [Steam](https://store.steampowered.com/app/1741120/Fantasy_General/))
-* [Krush, Kill ‘N’ Destroy Xtreme](https://www.gog.com/game/krush_kill_n_destroy_xtreme) (available on [Steam](https://store.steampowered.com/app/1292170/Krush_Kill_N_Destroy_Xtreme/))
-* [Krush, Kill 'N Destroy 2: Krossfire](https://www.gog.com/game/krush_kill_n_destroy_2_krossfire) (available on [Steam](https://store.steampowered.com/app/1292180/Krush_Kill_N_Destroy_2_Krossfire/))
-* [Master Of Magic](https://www.gog.com/game/master_of_magic) (Still coming soon on GOG and coming soon on [Steam](https://store.steampowered.com/app/1623070/Master_of_Magic/))
-* [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/)), contains
-    * [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return) (available on [Steam](https://store.steampowered.com/app/1367170/Planets_Edge/))
-    * [Wetlands](https://www.gog.com/game/wetlands) (available on [Steam](https://store.steampowered.com/app/1367160/Wetlands/))
-    * [Zephyr](https://www.gog.com/game/zephyr) (available on [Steam](https://store.steampowered.com/app/1423010/Zephyr/))
-* [Pacific General](https://www.gog.com/game/pacific_general) (available on [Steam](https://store.steampowered.com/app/1741130/Pacific_General/))
-* [Planet's Edge: The Point of no Return](https://www.gog.com/game/planets_edge_the_point_of_no_return) (available on [Steam](https://store.steampowered.com/app/1367170/Planets_Edge/)), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
-* [Redneck Rampage Collection](https://www.gog.com/game/redneck_rampage_collection), includes
-    * ~~Redneck Rampage~~ (also on [Steam](https://store.steampowered.com/app/565550/Redneck_Rampage/))
-    * ~~Redneck Rampage Rides Again: Arkansas~~ (also on [Steam](https://store.steampowered.com/app/580940/Redneck_Rampage_Rides_Again/))
-    * Redneck Rampage: Suckin' Grits on Route 66 (added to the basegame, [source](https://steamcommunity.com/app/565550/discussions/0/2959418287753576345/)
-* [Simon The Sorcerer 3d](https://www.gog.com/game/simon_the_sorcerer_3d) (available on [Steam](https://store.steampowered.com/app/1417950/Simon_the_Sorcerer_3D/) with more language support(?))
-* [War Wind](https://www.gog.com/game/war_wind) (available on [Steam](https://store.steampowered.com/app/1741140/War_Wind/))
-* [War Wind II: Human Onslaught](https://www.gog.com/game/war_wind_ii_human_onslaught) (available on [Steam](https://store.steampowered.com/app/1741150/War_Wind_II_Human_Onslaught/))
-* [Wetlands](https://www.gog.com/game/wetlands) (available on [Steam](https://store.steampowered.com/app/1367160/Wetlands/)), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
-* [Zephyr](https://www.gog.com/game/zephyr) (available on [Steam]()), also available as part of the [New World Computing Bundle](https://www.gog.com/game/new_world_computing_bundle) (available on [Steam](https://store.steampowered.com/bundle/18861/New_World_Computing_Bundle/))
+* [Icewind Dale](https://www.gog.com/game/icewind_dale)
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
