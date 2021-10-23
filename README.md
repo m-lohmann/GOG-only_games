@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2021-10-11 22:08:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2021-10-22 09:33:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -28,7 +28,7 @@ New games added at last check:
 
 Games removed at last check:
 
-* [Icewind Dale](https://www.gog.com/game/icewind_dale)
+* [Fallout 3: Game of the Year Edition](https://www.gog.com/game/fallout_3_game_of_the_year_edition), GFWL dependency removed on Steam so it's compatible with later OS, [source](https://store.steampowered.com/news/app/22370/view/2993196769824312887)
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -99,7 +99,6 @@ E
 
 F
 
-* ✔ [Fallout 3: Game of the Year Edition](https://www.gog.com/game/fallout_3_game_of_the_year_edition) (GOG version is playable — Steam Notice: Fallout 3 is not optimized for Windows 7 and later)
 * ✔ [Final Liberation: Warhammer® Epic 40,000](https://www.gog.com/game/final_liberation_warhammer_epic_40000)
 * ✔ [Forgotten Realms: Demon Stone](https://www.gog.com/game/forgotten_realms_demon_stone)
 * ✔ [Forgotten Realms: The Archives - Collection One](https://www.gog.com/game/forgotten_realms_the_archives_collection_one)
