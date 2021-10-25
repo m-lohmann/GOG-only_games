@@ -13,7 +13,7 @@ I added some entries where the GOG version is actually playable in contrast to e
 Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list after a few weeks.
 
-**last check and cleanup: 2021-10-22 09:33:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2021-10-25 08:23:00 UTC (Universal Coordinated Time)**
 
 New platform for cross checks added:
 
@@ -28,7 +28,10 @@ New games added at last check:
 
 Games removed at last check:
 
-* [Fallout 3: Game of the Year Edition](https://www.gog.com/game/fallout_3_game_of_the_year_edition), GFWL dependency removed on Steam so it's compatible with later OS, [source](https://store.steampowered.com/news/app/22370/view/2993196769824312887)
+* [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition), includes:
+    * Battle Chess (also on [Steam](https://store.steampowered.com/app/622830/Battle_Chess/))
+    * Battle Chess II: Chinese Chess (also on [Steam](https://store.steampowered.com/app/678620/Battle_Chess_II_Chinese_Chess/))
+    * Battle Chess 4000 (released on [Steam](https://store.steampowered.com/app/1769220/Battle_Chess_4000/))
 
 **If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
 
@@ -49,10 +52,6 @@ A
 
 B
 
-* ✔ [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition), includes:
-    * ~~Battle Chess~~ (also on [Steam](https://store.steampowered.com/app/622830/Battle_Chess/))
-    * ~~Battle Chess II: Chinese Chess~~ (also on [Steam](https://store.steampowered.com/app/678620/Battle_Chess_II_Chinese_Chess/))
-    * Battle Chess 4000 (Coming soon on [Steam](https://store.steampowered.com/app/1769220/Battle_Chess_4000/))
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
