@@ -1,39 +1,66 @@
-# GOG-only_games
+# GOG-only-games
 
 Because this gets requested so often, here is a repost of a current list of games that are only available on GOG.
 
 Although you still might get old CDs or DVDs of a lot of games, GOG maintains compatibility of these games with current OSes. This list just got cross-checked against the [List of GOG games that aren't available in Steam](https://www.gog.com/forum/general/list_of_gog_games_that_arent_available_in_steam/page6) list on GOG. Here is a list of games that you only get on GOG or where only the GOG version is playable, or where other platforms are missing add-ons and DLCs, or other features:
 
+## GOG Exclusive Games
+
 My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
-**New**: Games that are free on GOG are marked with the symbol `­∅`.
+## Free Games on GOG
+
+Games that are free on GOG are marked with the symbol `­∅`.
+
+**New**: *If free games are also available somewhere else, a `→` is put right next to the `⊘`, and optionally the other platform(s) are named as well.*
+
+## Playability of games
 
 I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam. If the status of a game is not sure, it’ll be marked with a `?`.
 
-Full list is in the comments. I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
-I’ll clean up the list after a few weeks.
+## Cleanup
 
-**last check and cleanup: 2021-11-12 04:40:00 UTC (Universal Coordinated Time)**
+I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
+I’ll clean up the list every few weeks.
+## Platforms this list is checked against
 
-New platform for cross checks added:
+Other platforms used to check for exclusivity:
 
 * [Zoom Store](https://www.zoom-platform.com/#store)
+* [Gamersgate](https://www.gamersgate.com/) (only if checked by others)
+* [FireFlowerGames](https://fireflowergames.com) (only if checked by others)
+* [Steam](https://store.steampowered.com/)
+* [Origin](https://www.origin.com/)
+* [Humble Store](https://www.humblebundle.com/store)
+* [Humble Trove](https://www.humblebundle.com/subscription/trove)
 
-* Gamersgate (only if checked by others)
-* Fireflowergames (only if checked by others)
+## **Last Changes**
 
-New games added at last check:
+**last check and cleanup: 2021-12-16 19:16:00 UTC (Universal Coordinated Time)**
 
-* [Galador - The Prince and the Coward](https://www.gog.com/game/galador_the_prince_and_the_coward)
+### New games added at last check:
 
-Games removed at last check:
+* None
 
-* [Battle Chess Special Edition](https://www.gog.com/game/battle_chess_special_edition), includes:
-    * Battle Chess (also on [Steam](https://store.steampowered.com/app/622830/Battle_Chess/))
-    * Battle Chess II: Chinese Chess (also on [Steam](https://store.steampowered.com/app/678620/Battle_Chess_II_Chinese_Chess/))
-    * Battle Chess 4000 (Released on [Steam](https://store.steampowered.com/app/1769220/Battle_Chess_4000/))
+### Games removed at last check:
 
-**If appropriate, please update the *Last check and cleanup*, *New games added*, and *Games removed* sections after editing entries in the alphabetic list.**
+* None
+
+### Other recent changes
+
+* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
+
+* Section titles added, some parts reworded.
+
+### New platform for cross checks added
+
+* None
+
+## Final remarks
+ 
+If appropriate, please update the *Last check and cleanup*, *New games added*, *Games removed* and the remaining bullet points in the **Last Changes** section after editing entries in the alphabetic list.
+
+***Thank you for your contribution and help to keep this list alive and up to date!***
 
 ---
 
@@ -54,7 +81,7 @@ B
 
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
-* ∅ [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky)
+* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ✔ [Bladerunner](https://www.gog.com/game/blade_runner)
 
@@ -85,7 +112,7 @@ E
 * ✔ [Elder Scrolls III: Morrowind GOTY Edition, The](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition). According to the [*Unofficial Elder Scrolls Pages*](https://en.uesp.net/wiki/Morrowind:Plugins), only the GOG version is bundled with all 8 official Bethesda Plugins (must be toggled on in the launcher's Data Files menu):
     * Entertainers
     * Bitter Coast Sounds
-    * Area Effect Arrows    
+    * Area Effect Arrows
     * Helm of Tohan
     * Master Index
     * LeFemm Armor
