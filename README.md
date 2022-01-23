@@ -75,7 +75,14 @@ A
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
 * ✔ [Archimedean Dynasty](https://www.gog.com/game/archimedean_dynasty)
 * ✔ [Army Men: World War](https://www.gog.com/game/army_men_world_war)
-* ✔ [Avernum: The Complete Saga (2000)](https://www.gog.com/game/avernum_the_complete_saga)
+* ✔ [Avernum: The Complete Saga (2000)](https://www.gog.com/game/avernum_the_complete_saga), contains:
+    * Avernum 1 ("Rebooted" version titled Avernum: Escape From the Pit available on Steam, but not the original version.)
+    * Avernum 2 ("Rebooted" version titled Avernum 2: Crystal Souls available on Steam, but not the original version.)
+    * Avernum 3 ("Rebooted" version titled Avernum 3: Ruined World available on Steam, but not the original version.)
+    * Blades of Avernum
+    * ~~Avernum 4~~ (also on Steam)
+    * ~~Avernum 5~~ (also on Steam)
+    * ~~Avernum 6~~ (also on Steam)
 
 B
 
@@ -86,7 +93,7 @@ B
 * ✔ [Bladerunner](https://www.gog.com/game/blade_runner)
 
 C
-
+* ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
 * ✔ [Chaos Overlords](https://www.gog.com/game/chaos_overlords)
 * ✔ [Clive Barker's Undying](https://www.gog.com/game/clive_barkers_undying)
 * ✔ [Colonel's Bequest, The](https://www.gog.com/game/the_colonels_bequest)
@@ -200,7 +207,13 @@ M
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
 * ✔ [Metal Gear Solid 2 Substance](https://www.gog.com/game/metal_gear_solid_2_substance)
-* ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition)
+* ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition), contains
+    * Might and Magic 1 - Book I
+    * Might and Magic 2 - Gates to Another World
+    * Might and Magic 3 - Isles of Terra
+    * Might and Magic 4-5 - World of Xeen
+    * Might and Magic - Swords of Xeen
+    * Might and Magic 6 - The Mandate of Heaven (included with "Might and Magic X - Legacy" on Steam)
 * ✔ [Might And Magic® 7: For Blood And Honor®](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
 * ✔ [Might And Magic® 8: Day Of The Destroyer™](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
 * ✔ [Might And Magic® 9](https://www.gog.com/game/might_and_magic_9)
