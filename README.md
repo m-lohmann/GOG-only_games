@@ -36,11 +36,19 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2021-12-16 19:16:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2022-02-07 09:09:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* None
+* Star Trek™: Armada
+* Star Trek™: Armada II
+* Star Trek™: Away Team
+* Star Trek™: Bridge Commander
+* Star Trek™: Elite Force II
+* Star Trek™: Hidden Evil
+* Star Trek™: Starfleet Command III
+* Star Trek™: Voyager - Elite Force
+* Heroes of Might and Magic® 4: Complete
 
 ### Games removed at last check:
 
@@ -150,6 +158,7 @@ H
     * "The Fiery Moon"
     * "Revolt of the Beastmasters"
     * "The Sword of Frost". 
+* ✔ [Heroes of Might and Magic® 4: Complete](https://www.gog.com/game/heroes_of_might_and_magic_4_complete)
 * ✔ [Heroes Of Might And Magic 3: Complete](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition) (remastered HOMM3 HD version available on Steam, but not the original version.)
 
 I
@@ -254,7 +263,7 @@ S
 * ✔ [Star Trek™: Away Team](https://www.gog.com/game/star_trek_away_team)
 * ✔ [Star Trek™: Bridge Commander](https://www.gog.com/game/star_trek_bridge_commander)
 * ✔ [Star Trek™: Elite Force II](https://www.gog.com/game/star_trek_elite_force_ii)
-* ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil]
+* ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil)
 * ✔ [Star Trek™: Starfleet Command III](https://www.gog.com/game/star_trek_starfleet_command_iii)
 * ✔ [Star Trek™: Voyager - Elite Force](https://www.gog.com/game/star_trek_voyager_elite_force)
 * ✔ [Street Fighter Alpha 2](https://www.gog.com/game/street_fighter_alpha_2)
