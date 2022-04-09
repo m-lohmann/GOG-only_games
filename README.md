@@ -36,19 +36,12 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2022-02-07 09:09:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2022-03-22 10:48:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* Star Trek™: Armada
-* Star Trek™: Armada II
-* Star Trek™: Away Team
-* Star Trek™: Bridge Commander
-* Star Trek™: Elite Force II
-* Star Trek™: Hidden Evil
-* Star Trek™: Starfleet Command III
-* Star Trek™: Voyager - Elite Force
-* Heroes of Might and Magic® 4: Complete
+* Shivers
+* Shivers II: Harvest of Souls
 
 ### Games removed at last check:
 
@@ -262,6 +255,8 @@ S
 * ✔ [Screamer 4x4](https://www.gog.com/game/screamer_4x4)
 * ✔ [Sensible Soccer 2006](https://www.gog.com/game/sensible_soccer_2006)
 * ✔ [Sensible World Of Soccer 96/97](https://www.gog.com/game/sensible_world_of_soccer_9697)
+* ✔ [Shivers](https://www.gog.com/game/shivers)
+* ✔ [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls)
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri), a bundle of
     * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
     * ✔ Sid Meier's Alien Crossfire™
