@@ -126,8 +126,6 @@ E
     * LeFemm Armor
     * Adamantium Armor  
     * Siege at Firemoth
-* ✔ [Elder Scrolls Adventures: The Redguard](https://www.gog.com/game/the_elder_scrolls_adventures_redguard)
-* ✔ [Elder Scrolls Legend: Battlespire, An](https://www.gog.com/game/an_elder_scrolls_legend_battlespire)
 * ✔ [Emperor: Rise of the Middle Kingdom](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom)
 * ✔ [Entomorph: Plague of the Darkfall](https://www.gog.com/game/entomorph_plague_of_the_darkfall)
 
