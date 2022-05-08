@@ -45,7 +45,8 @@ Other platforms used to check for exclusivity:
 
 ### Games removed at last check:
 
-* None
+* Elder Scrolls Adventures: The Redguard
+* Elder Scrolls Legend: Battlespire, An
 
 ### Other recent changes
 
