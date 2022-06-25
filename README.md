@@ -92,7 +92,6 @@ B
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
-* ✔ [Bladerunner](https://www.gog.com/game/blade_runner)
 
 C
 * ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
