@@ -36,24 +36,18 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2022-03-22 10:48:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2022-07-30 21:23:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* Shivers
-* Shivers II: Harvest of Souls
-
+* none
 ### Games removed at last check:
 
-* Elder Scrolls Adventures: The Redguard
-* Elder Scrolls Legend: Battlespire, An
+* [Bladerunner](https://www.gog.com/game/blade_runner)
 
 ### Other recent changes
 
-* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
-
-* Section titles added, some parts reworded.
-
+* none
 ### New platform for cross checks added
 
 * None
