@@ -16,7 +16,7 @@ Games that are free on GOG are marked with the symbol `­∅`.
 
 ## Playability of games
 
-I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam. If the status of a game is not sure, it’ll be marked with a `?`.
+I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam users. If the status of a game is not sure, it’ll be marked with a `?`. Games are listed in alphanumerical order, ignoring articles and pronouns at the beginning, like “I” or “The”.
 
 ## Cleanup
 
@@ -33,24 +33,31 @@ Other platforms used to check for exclusivity:
 * [Origin](https://www.origin.com/)
 * [Humble Store](https://www.humblebundle.com/store)
 * [Humble Trove](https://www.humblebundle.com/subscription/trove)
+* [itch.io](https://itch.io/) (only if checked by others)
 
 ## **Last Changes**
 
-**last check and cleanup: 2022-07-30 21:23:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2023-04-04 20:15:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* none
+* World in Conflict: Complete Edition
+* Great Battles Collector's Edition
+* Fallen Haven
+* Silent Hill 4: The Room
+* The Saboteur™
+* Deadlock: Planetary Conquest
+
 ### Games removed at last check:
 
-* [Bladerunner](https://www.gog.com/game/blade_runner)
+* Metal Gear solid 2 (delisted by GOG)
 
 ### Other recent changes
 
 * none
 ### New platform for cross checks added
 
-* None
+* itch.io as a new platform
 
 ## Final remarks
  
@@ -85,8 +92,9 @@ B
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
+* ♥ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil), also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
-
+* ♥ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
 C
 * ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
 * ✔ [Chaos Overlords](https://www.gog.com/game/chaos_overlords)
@@ -101,6 +109,7 @@ D
 * ✔ [Dangerous Dave Pack](https://www.gog.com/game/dangerous_dave_pack)
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
+* ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
@@ -125,6 +134,7 @@ E
 
 F
 
+* ✔ [Fallen Haven](https://www.gog.com/de/game/fallen_haven)
 * ✔ [Final Liberation: Warhammer® Epic 40,000](https://www.gog.com/game/final_liberation_warhammer_epic_40000)
 * ✔ [Forgotten Realms: Demon Stone](https://www.gog.com/game/forgotten_realms_demon_stone)
 * ✔ [Forgotten Realms: The Archives - Collection One](https://www.gog.com/game/forgotten_realms_the_archives_collection_one)
@@ -137,6 +147,10 @@ G
 * ✔ [Galador - The Prince and the Coward](https://www.gog.com/game/galador_the_prince_and_the_coward)
 * ✔ [Gangsters: Organized Crime](https://www.gog.com/game/gangsters_organized_crime)
 * ✔ [Gex](https://www.gog.com/game/gex)
+* ♥ [**Great Battles Collector's Edition**](https://www.gog.com/de/game/great_battles_collectors_edition). Two of the games are also sold on itch.io,but the whole collection is only available on GOG.
+    * The Great Battles of Alexander (also on itch.io)
+    * The Great Battles of Hannibal (also on itch.io)
+    * The Great Battles of Caesar
 
 H
 
@@ -200,7 +214,7 @@ M
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
-* ✔ [Metal Gear Solid 2 Substance](https://www.gog.com/game/metal_gear_solid_2_substance)
+* ✘ [~~Metal Gear Solid 2 Substance~~](https://www.gog.com/game/metal_gear_solid_2_substance) (delisted)
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition), contains
     * Might and Magic 1 - Book I
     * Might and Magic 2 - Gates to Another World
@@ -244,6 +258,7 @@ R
 
 S
 
+* ✔→ [Saboteur™, The](https://www.gog.com/de/game/saboteur) - Also available on EA, but the GOG version is Securom-free.
 * ✔ [Screamer 4x4](https://www.gog.com/game/screamer_4x4)
 * ✔ [Sensible Soccer 2006](https://www.gog.com/game/sensible_soccer_2006)
 * ✔ [Sensible World Of Soccer 96/97](https://www.gog.com/game/sensible_world_of_soccer_9697)
@@ -283,7 +298,7 @@ T
     * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
-* ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - (also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available)
+* ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - Also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
@@ -303,10 +318,11 @@ W
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
-* ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) (also on Origin, but only the GOG version has the DVD quality video cutscenes made available by Chris Roberts, iirc.)
+* ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) - Also on Origin, but only the GOG version has the high quality DVD video cutscenes made available by Chris Roberts.
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
 * ✔ [Wing Commander™: Armada](https://www.gog.com/game/wing_commander_armada)
+* ♥ [**World in Conflict: Complete Edition**](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
 
