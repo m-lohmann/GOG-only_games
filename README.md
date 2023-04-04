@@ -41,12 +41,14 @@ Other platforms used to check for exclusivity:
 
 ### New games added at last check:
 
-* World in Conflict: Complete Edition
-* Great Battles Collector's Edition
+* Beyond Good & Evil™
+* Blood Omen: Legacy of Kain
+* Deadlock: Planetary Conquest
 * Fallen Haven
+* Great Battles Collector's Edition
 * Silent Hill 4: The Room
 * The Saboteur™
-* Deadlock: Planetary Conquest
+* World in Conflict: Complete Edition
 
 ### Games removed at last check:
 
