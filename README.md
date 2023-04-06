@@ -18,6 +18,20 @@ Games that are free on GOG are marked with the symbol `­∅`.
 
 I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam users. If the status of a game is not sure, it’ll be marked with a `?`. Games are listed in alphanumerical order, ignoring articles and pronouns at the beginning, like “I” or “The”.
 
+## You want to contribute?
+
+If you find any changes and want to contribute to this list then it’s more helpful to add the changes and modifications to this document directly and choose the option “Create a new branch for this commit and start a pull request. Learn more about pull requests.” instead of posting an issue. This way I get automatic messages about the changes and I can simply review the pull request if the change is correct. It makes life a little easier for me.
+Thank you for your contribution! I appreciate your help very much!
+
+It only takes a few simple steps:
+
+* Click on the pen symbol in the upper right corner of the file view.
+* Make your changes directly in the document
+* Write a short description of your change in the line below “Commit changes” (the line that says “Update README.md”). The text box below that is for longer descriptions, if needed.
+* Below the text boxes, click the radio button for “Creat a **new branch** for this commit and start a pull request.”
+* Click on “Propose changes”
+* That’s it, you’re done!
+
 ## Cleanup
 
 I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
