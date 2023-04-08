@@ -111,7 +111,6 @@ B
 * ♥ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil), also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ♥ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
-C
 * ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
 * ✔ [Chaos Overlords](https://www.gog.com/game/chaos_overlords)
 * ✔ [Clive Barker's Undying](https://www.gog.com/game/clive_barkers_undying)
