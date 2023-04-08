@@ -51,26 +51,24 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2023-04-04 20:15:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2023-04-08 10:25:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* Beyond Good & Evil™
-* Blood Omen: Legacy of Kain
-* Deadlock: Planetary Conquest
-* Fallen Haven
-* Great Battles Collector's Edition
-* Silent Hill 4: The Room
-* The Saboteur™
-* World in Conflict: Complete Edition
+* Baldur's Gate: The Original Saga
+* Baldur‘s Gate II Complete
+* The Last Express
 
 ### Games removed at last check:
 
-* Metal Gear solid 2 (delisted by GOG)
+* Dungeons & Dragons: Dark Sun Series (part of Steam’s Gold Box Classics Bundle)
+* Dungeons & Dragons: Krynn Series (part of Steam’s Gold Box Classics Bundle)
+* Dungeons & Dragons: Ravenloft Series (part of Steam’s Gold Box Classics Bundle)
 
 ### Other recent changes
 
 * none
+
 ### New platform for cross checks added
 
 * itch.io as a new platform
@@ -105,6 +103,8 @@ A
 
 B
 
+* ♥ [**Baldur's Gate: The Original Saga**](https://www.gog.com/de/game/baldurs_gate_enhanced_edition), can be claimed on GOG by buying **Baldur’s Gate: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003415445405-Baldur-s-Gate-The-Original-Saga-Classic-Version?product=gog)
+* ♥ [**Baldur‘s Gate II Complete**](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition), can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
@@ -129,10 +129,10 @@ D
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
-* ✔ [Dungeons & Dragons: Dark Sun Series](https://www.gog.com/game/dungeons_dragons_dark_sun_series)
+* ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series), also available on Steam as part of the Gold Box Classics Bundle
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
-* ✔ [Dungeons & Dragons: Krynn Series](https://www.gog.com/game/dungeons_dragons_krynn_series)
-* ✔ [Dungeons & Dragons: Ravenloft Series](https://www.gog.com/game/dungeons_dragons_ravenloft_series)
+* ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series), also available on Steam as part of the Gold Box Classics Bundle
+* ✘ [~~Dungeons & Dragons: Ravenloft Series~~](https://www.gog.com/game/dungeons_dragons_ravenloft_series), also available on Steam as part of the Gold Box Classics Bundle
 
 E
 
@@ -216,6 +216,7 @@ K
 
 L
 
+* ♥ [**Last Express, The**](https://www.gog.com/game/last_express_the), (also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox)
 * ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver), (also available on Steam, but GOG version has wider language support, e.g. French)
 * ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2), (also available on Steam, but GOG version has wider language support, e.g. French)
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
