@@ -57,6 +57,9 @@ Other platforms used to check for exclusivity:
 
 * Baldur's Gate: The Original Saga
 * Baldur‘s Gate II Complete
+* Deadlock II: Shrine Wars
+* In Cold Blood
+* Shadow Watch
 * The Last Express
 
 ### Games removed at last check:
@@ -103,12 +106,12 @@ A
 
 B
 
-* ♥ [**Baldur's Gate: The Original Saga**](https://www.gog.com/de/game/baldurs_gate_enhanced_edition), can be claimed on GOG by buying **Baldur’s Gate: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003415445405-Baldur-s-Gate-The-Original-Saga-Classic-Version?product=gog)
-* ♥ [**Baldur‘s Gate II Complete**](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition), can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
+* ♥ [**Baldur's Gate: The Original Saga**](https://www.gog.com/de/game/baldurs_gate_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003415445405-Baldur-s-Gate-The-Original-Saga-Classic-Version?product=gog)
+* ♥ [**Baldur‘s Gate II Complete**](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
-* ♥ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil), also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
+* ♥ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil) - Also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ♥ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
 * ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
@@ -125,13 +128,14 @@ D
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
 * ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
+* ♥ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
-* ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series), also available on Steam as part of the Gold Box Classics Bundle
+* ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series) - Also available on Steam as part of the Gold Box Classics Bundle
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
-* ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series), also available on Steam as part of the Gold Box Classics Bundle
-* ✘ [~~Dungeons & Dragons: Ravenloft Series~~](https://www.gog.com/game/dungeons_dragons_ravenloft_series), also available on Steam as part of the Gold Box Classics Bundle
+* ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series) - Also available on Steam as part of the Gold Box Classics Bundle
+* ✘ [~~Dungeons & Dragons: Ravenloft Series~~](https://www.gog.com/game/dungeons_dragons_ravenloft_series) - Also available on Steam as part of the Gold Box Classics Bundle
 
 E
 
@@ -170,7 +174,7 @@ G
 H
 
 * ✔ [Hard Truck 2: King of the Road](https://www.gog.com/game/hard_truck_2_king_of_the_road)
-* ✔ [Heroes Chronicles: All chapters](https://www.gog.com/game/heroes_chronicles_all_chapters), includes
+* ✔ [Heroes Chronicles: All chapters](https://www.gog.com/game/heroes_chronicles_all_chapters) - Includes:
     * "Warlords of the Wastelands"
     * "Conquest of the Underworld"
     * "Masters of the Elements"
@@ -184,15 +188,16 @@ H
 
 I
 
+* ♥ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
-* ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) (also available on the Humble Trove, but not in the Humble Store)
+* ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) - Also available in the Humble Trove, but not in the Humble Store
     * Even More Incredible Machine
     * The Incredible Machine 3 (contains all levels from The Incredible Machine 2)
     * Contraptions
     * Even More Contraptions
 * ✔ [Interstate '76® The Arsenal](https://www.gog.com/game/interstate76)
 * ✔ [Interstate '82](https://www.gog.com/game/interstate_82)
-* ✔ [Ishar Compilation](https://www.gog.com/game/ishar_compilation), includes
+* ✔ [Ishar Compilation](https://www.gog.com/game/ishar_compilation) - Includes:
     * Crystals of Arborea
     * Ishar: Legend of the Fortress
     * Ishar 2: Messengers of Doom
@@ -202,36 +207,36 @@ J
 
 * ✔ [Jazz Jackrabbit Collection](https://www.gog.com/game/jazz_jackrabbit_collection)
 * ✔ [Jazz Jackrabbit 2 Collection](https://www.gog.com/game/jazz_jackrabbit_2_collection)
-* ⊘ [Jill of the Jungle: The Complete Trilogy **FREE!**](https://www.gog.com/game/jill_of_the_jungle_the_complete_trilogy), includes
+* ⊘ [Jill of the Jungle: The Complete Trilogy **FREE!**](https://www.gog.com/game/jill_of_the_jungle_the_complete_trilogy) - Includes
     * Jill of the Jungle
     * Jill Goes Underground
     * Jill Saves the Prince
 
 K
 
-* ✔ [~~Konung 1+2~~](https://www.gog.com/game/konung_1_2) (also on Zoom)
+* ✔ [~~Konung 1+2~~](https://www.gog.com/game/konung_1_2) - Also on Zoom
     * Konung: Legend of the North
     * ~~Konung 2: Blood of Titans~~ (also on Steam)
 
 L
 
-* ♥ [**Last Express, The**](https://www.gog.com/game/last_express_the), (also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox)
-* ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver), (also available on Steam, but GOG version has wider language support, e.g. French)
-* ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2), (also available on Steam, but GOG version has wider language support, e.g. French)
+* ♥ [**Last Express, The**](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
+* ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Also available on Steam, but GOG version has wider language support, e.g. French
+* ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
 * ✔ [Legend Of Kyrandia: Hand Of Fate, The (Book Two)](https://www.gog.com/game/legend_of_kyrandia_hand_of_fate)
 * ✔ [Legend Of Kyrandia: Malcolm's Revenge, The (Book Three)](https://www.gog.com/game/legend_of_kyrandia_malcolms_revenge)
 
 M
 
-* ✔ [Magic Carpet Plus](https://www.gog.com/game/magic_carpet), contains
+* ✔ [Magic Carpet Plus](https://www.gog.com/game/magic_carpet) - Includes:
     * ✔ ~~Magic Carpet~~ (also on Origin)
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
-* ✘ [~~Metal Gear Solid 2 Substance~~](https://www.gog.com/game/metal_gear_solid_2_substance) (delisted)
-* ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition), contains
+* ✘ [~~Metal Gear Solid 2 Substance~~](https://www.gog.com/game/metal_gear_solid_2_substance) - Delisted
+* ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition) - Includes:
     * Might and Magic 1 - Book I
     * Might and Magic 2 - Gates to Another World
     * Might and Magic 3 - Isles of Terra
@@ -246,7 +251,7 @@ M
 
 N
 
-* ✔ [Neverwinter Nights 2: Complete](https://www.gog.com/game/neverwinter_nights_2_complete), contains
+* ✔ [Neverwinter Nights 2: Complete](https://www.gog.com/game/neverwinter_nights_2_complete) - Includes
     * Neverwinter Nights
     * Mask of the Betrayer expansion
     * Storm of Zehir expansion
@@ -278,9 +283,10 @@ S
 * ✔ [Screamer 4x4](https://www.gog.com/game/screamer_4x4)
 * ✔ [Sensible Soccer 2006](https://www.gog.com/game/sensible_soccer_2006)
 * ✔ [Sensible World Of Soccer 96/97](https://www.gog.com/game/sensible_world_of_soccer_9697)
+* ♥ [Shadow Watch](https://www.gog.com/de/game/shadow_watch)
 * ✔ [Shivers](https://www.gog.com/game/shivers)
 * ✔ [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls)
-* ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri), a bundle of
+* ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri) - A bundle of:
     * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
@@ -309,7 +315,7 @@ T
 
 * ∅ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
-* ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2), contains:
+* ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2) - Includes:
     * ✔ Mean Streets (also on Steam, but GOG version has wider language support (e.g. French))
     * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
@@ -328,7 +334,7 @@ V
 
 W
 
-* ✔ [Warcraft I & II Bundle](https://www.gog.com/game/warcraft_bundle), contains
+* ✔ [Warcraft I & II Bundle](https://www.gog.com/game/warcraft_bundle) - Includes:
     * Warcraft: Orcs and Humans
     * Warcraft II Battle.net Edition
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
