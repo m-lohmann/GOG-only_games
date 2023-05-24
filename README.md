@@ -51,7 +51,7 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2023-04-08 10:25:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2023-05-24 12:39:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
@@ -61,6 +61,7 @@ Other platforms used to check for exclusivity:
 * In Cold Blood
 * Shadow Watch
 * The Last Express
+* Waxworks
 
 ### Games removed at last check:
 
@@ -340,6 +341,7 @@ W
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
+* ✔ [Waxworks](https://www.gog.com/en/game/waxworks)
 * ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) - Also on Origin, but only the GOG version has the high quality DVD video cutscenes made available by Chris Roberts.
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
