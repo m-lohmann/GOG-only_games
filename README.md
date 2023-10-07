@@ -123,7 +123,7 @@ B
 
 D
 
-* ✔ [D&D Stronghold: Kingdom Simulator](https://www.gog.com/game/dd_stronghold_kingdom_simulator)
+* ✔ [~~D&D Stronghold: Kingdom Simulator~~](https://www.gog.com/game/dd_stronghold_kingdom_simulator) - (also on Steam)
 * ✔ [Dagger of Amon Ra, The](https://www.gog.com/game/the_dagger_of_amon_ra)
 * ✔ [Dangerous Dave Pack](https://www.gog.com/game/dangerous_dave_pack)
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
