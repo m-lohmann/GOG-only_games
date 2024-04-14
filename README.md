@@ -55,23 +55,13 @@ Other platforms used to check for exclusivity:
 
 ### New games added at last check:
 
-* Baldur's Gate: The Original Saga
-* Baldur‘s Gate II Complete
-* Deadlock II: Shrine Wars
-* In Cold Blood
-* Shadow Watch
-* The Last Express
-* Waxworks
+* Stranglehold
 
 ### Games removed at last check:
 
-* Dungeons & Dragons: Dark Sun Series (part of Steam’s Gold Box Classics Bundle)
-* Dungeons & Dragons: Krynn Series (part of Steam’s Gold Box Classics Bundle)
-* Dungeons & Dragons: Ravenloft Series (part of Steam’s Gold Box Classics Bundle)
-
 ### Other recent changes
 
-* none
+* added comment about regional blocking.
 
 ### New platform for cross checks added
 
@@ -107,14 +97,14 @@ A
 
 B
 
-* ♥ [**Baldur's Gate: The Original Saga**](https://www.gog.com/de/game/baldurs_gate_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003415445405-Baldur-s-Gate-The-Original-Saga-Classic-Version?product=gog)
-* ♥ [**Baldur‘s Gate II Complete**](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
+* ✔ [Baldur's Gate: The Original Saga](https://www.gog.com/de/game/baldurs_gate_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003415445405-Baldur-s-Gate-The-Original-Saga-Classic-Version?product=gog)
+* ✔ [Baldur‘s Gate II Complete](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
 * ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
-* ♥ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil) - Also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
+* ✔ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil) - Also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
-* ♥ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
+* ✔ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
 * ✔ [Call of Cthulhu: Dark Corners of the Earth](https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth) (includes various small fixes, and considered more stable overall.)
 * ✔ [Chaos Overlords](https://www.gog.com/game/chaos_overlords)
 * ✔ [Clive Barker's Undying](https://www.gog.com/game/clive_barkers_undying)
@@ -129,7 +119,7 @@ D
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
 * ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
-* ♥ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
+* ✔ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
     * Diablo
     * Hellfire
@@ -167,7 +157,7 @@ G
 * ✔ [Galador - The Prince and the Coward](https://www.gog.com/game/galador_the_prince_and_the_coward)
 * ✔ [Gangsters: Organized Crime](https://www.gog.com/game/gangsters_organized_crime)
 * ✔ [Gex](https://www.gog.com/game/gex)
-* ♥ [**Great Battles Collector's Edition**](https://www.gog.com/de/game/great_battles_collectors_edition). Two of the games are also sold on itch.io,but the whole collection is only available on GOG.
+* ✔ [Great Battles Collector's Edition](https://www.gog.com/de/game/great_battles_collectors_edition). Two of the games are also sold on itch.io,but the whole collection is only available on GOG.
     * The Great Battles of Alexander (also on itch.io)
     * The Great Battles of Hannibal (also on itch.io)
     * The Great Battles of Caesar
@@ -189,7 +179,7 @@ H
 
 I
 
-* ♥ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
+* ✔ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) - Also available in the Humble Trove, but not in the Humble Store
     * Even More Incredible Machine
@@ -221,7 +211,7 @@ K
 
 L
 
-* ♥ [**Last Express, The**](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
+* ✔ [Last Express, The](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
 * ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
@@ -280,11 +270,11 @@ R
 
 S
 
-* ✔→ [Saboteur™, The](https://www.gog.com/de/game/saboteur) - Also available on EA, but the GOG version is Securom-free.
+* ✔ [Saboteur™, The](https://www.gog.com/de/game/saboteur) - Also available on EA, but the GOG version is Securom-free.
 * ✔ [Screamer 4x4](https://www.gog.com/game/screamer_4x4)
 * ✔ [Sensible Soccer 2006](https://www.gog.com/game/sensible_soccer_2006)
 * ✔ [Sensible World Of Soccer 96/97](https://www.gog.com/game/sensible_world_of_soccer_9697)
-* ♥ [Shadow Watch](https://www.gog.com/de/game/shadow_watch)
+* ✔ [Shadow Watch](https://www.gog.com/de/game/shadow_watch)
 * ✔ [Shivers](https://www.gog.com/game/shivers)
 * ✔ [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls)
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri) - A bundle of:
@@ -304,6 +294,7 @@ S
 * ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil)
 * ✔ [Star Trek™: Starfleet Command III](https://www.gog.com/game/star_trek_starfleet_command_iii)
 * ✔ [Star Trek™: Voyager - Elite Force](https://www.gog.com/game/star_trek_voyager_elite_force)
+* ♥ [**Stranglehold**](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
 * ✔ [Street Fighter Alpha 2](https://www.gog.com/game/street_fighter_alpha_2)
 * ✔ [Strike Commander](https://www.gog.com/game/strike_commander)
 * ✔ [Suffering, The](https://www.gog.com/game/the_suffering)
@@ -346,7 +337,7 @@ W
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
 * ✔ [Wing Commander™: Armada](https://www.gog.com/game/wing_commander_armada)
-* ♥ [**World in Conflict: Complete Edition**](https://www.gog.com/en/game/world_in_conflict_complete_edition)
+* ✔ [World in Conflict: Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
 
