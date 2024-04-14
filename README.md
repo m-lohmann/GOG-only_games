@@ -51,11 +51,12 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2023-05-24 12:39:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-04-14 10:11:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
 * Stranglehold
+* I.G.I. 2: Covert Strike
 
 ### Games removed at last check:
 
@@ -181,6 +182,7 @@ I
 
 * ✔ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
+* ♥ [I.G.I. 2: Covert Strike](https://www.gog.com/index.php/en/game/i_g_i_2_covert_strike)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) - Also available in the Humble Trove, but not in the Humble Store
     * Even More Incredible Machine
     * The Incredible Machine 3 (contains all levels from The Incredible Machine 2)
