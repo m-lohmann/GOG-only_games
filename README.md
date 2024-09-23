@@ -214,7 +214,7 @@ K
 L
 
 * ✔ [Last Express, The](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
-* ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Also available on Steam, but GOG version has wider language support, e.g. French
+* ✘ [~~Legacy of Kain: Soul Reaver~~](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Delisted
 * ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
 * ✔ [Legend Of Kyrandia: Hand Of Fate, The (Book Two)](https://www.gog.com/game/legend_of_kyrandia_hand_of_fate)
