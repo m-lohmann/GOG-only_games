@@ -51,22 +51,19 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-04-14 10:11:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-09-23 11:20:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* Stranglehold
-* I.G.I. 2: Covert Strike
+* Worms 2
 
 ### Games removed at last check:
 
+* Legacy of Kain: Soul Reaver
+
 ### Other recent changes
 
-* added comment about regional blocking.
-
 ### New platform for cross checks added
-
-* itch.io as a new platform
 
 ## Final remarks
  
@@ -342,6 +339,7 @@ W
 * ✔ [World in Conflict: Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
+* ✔ [Worms 2](https://www.gog.com/en/game/worms_2)
 
 X
 
