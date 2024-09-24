@@ -51,7 +51,7 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-09-23 11:20:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-09-24 20:52:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
