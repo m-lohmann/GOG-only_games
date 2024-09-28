@@ -6,7 +6,7 @@ Although you still might get old CDs or DVDs of a lot of games, GOG maintains co
 
 ## GOG Exclusive Games
 
-My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
+My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, etc... by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
 ## Free Games on GOG
 
@@ -36,18 +36,20 @@ It only takes a few simple steps:
 
 I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list every few weeks.
+
 ## Platforms this list is checked against
 
-Other platforms used to check for exclusivity:
+Please verify against <ins>all</ins> of these platforms before submitting addenda or abatement.
 
-* [Zoom Store](https://www.zoom-platform.com/#store)
-* [Gamersgate](https://www.gamersgate.com/) (only if checked by others)
-* [FireFlowerGames](https://fireflowergames.com) (only if checked by others)
-* [Steam](https://store.steampowered.com/)
-* [Origin](https://www.origin.com/)
+* [Battle.net](https://shop.battle.net/)
+* [FireFlowerGames](https://fireflowergames.com)
+* [Gamersgate](https://www.gamersgate.com/)
 * [Humble Store](https://www.humblebundle.com/store)
 * [Humble Trove](https://www.humblebundle.com/subscription/trove)
-* [itch.io](https://itch.io/) (only if checked by others)
+* [itch.io](https://itch.io/)
+* [Origin](https://www.origin.com/)
+* [Steam](https://store.steampowered.com/)
+* [Zoom Store](https://www.zoom-platform.com/#store)
 
 ## **Last Changes**
 
@@ -55,22 +57,17 @@ Other platforms used to check for exclusivity:
 
 ### New games added at last check:
 
-* SimCity 2000 Special Edition
-* Worms 2
-
 ### Games removed at last check:
 
-* Avernum 4
-* Avernum 5
-* Avernum 6
-* D&D Stronghold: Kingdom Simulator
-* Konung 2: Blood of Titans
-* Legacy of Kain: Soul Reaver
-* Simcity 3000 Unlimited
+* Diablo + Hellfire
+* WarCraft: Orcs & Humans
+* WarCraft II: Battle.net Edition
 
 ### Other recent changes
 
 ### New platform for cross checks added
+
+* [Battle.net](https://shop.battle.net/)
 
 ## Final remarks
  
@@ -121,9 +118,7 @@ D
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
 * ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
-* ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
-    * Diablo
-    * Hellfire
+* ✔ [~~Diablo + Hellfire~~](https://www.gog.com/game/diablo) - Also on Battle.net
 * ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series) - Also available on Steam as part of the Gold Box Classics Bundle
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
 * ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series) - Also available on Steam as part of the Gold Box Classics Bundle
@@ -327,9 +322,7 @@ V
 
 W
 
-* ✔ [Warcraft I & II Bundle](https://www.gog.com/game/warcraft_bundle) - Includes:
-    * Warcraft: Orcs and Humans
-    * Warcraft II Battle.net Edition
+* ✔ [~~Warcraft I & II Bundle~~](https://www.gog.com/game/warcraft_bundle) - Also on Battle.net
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
