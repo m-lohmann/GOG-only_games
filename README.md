@@ -53,7 +53,7 @@ Please verify against <ins>all</ins> of these platforms before submitting addend
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-09-24 20:52:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-09-28 19:04:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
