@@ -34,7 +34,7 @@ It only takes a few simple steps:
 
 ## Cleanup
 
-I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
+I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Delisted games, in particular will be denoted with `✘`. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list every few weeks.
 
 ## Platforms this list is checked against
