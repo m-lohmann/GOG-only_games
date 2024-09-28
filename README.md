@@ -100,7 +100,7 @@ B
 * ✔ [Baldur‘s Gate II Complete](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
-* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
+* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) - Also on Steam
 * ✔ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil) - Also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ✔ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
@@ -154,8 +154,8 @@ G
 * ✔ [Gangsters: Organized Crime](https://www.gog.com/game/gangsters_organized_crime)
 * ✔ [Gex](https://www.gog.com/game/gex)
 * ✔ [Great Battles Collector's Edition](https://www.gog.com/de/game/great_battles_collectors_edition). Two of the games are also sold on itch.io,but the whole collection is only available on GOG.
-    * The Great Battles of Alexander (also on itch.io)
-    * The Great Battles of Hannibal (also on itch.io)
+    * The Great Battles of Alexander - Also on itch.io
+    * The Great Battles of Hannibal - Also on itch.io
     * The Great Battles of Caesar
 
 H
@@ -217,7 +217,7 @@ L
 M
 
 * ✔ [Magic Carpet Plus](https://www.gog.com/game/magic_carpet) - Includes:
-    * ✔ ~~Magic Carpet~~ (also on Origin)
+    * ✔ ~~Magic Carpet~~ - Also on Origin
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
@@ -274,7 +274,7 @@ S
 * ✔ [Shivers](https://www.gog.com/game/shivers)
 * ✔ [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls)
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri) - A bundle of:
-    * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
+    * ✔ ~~Sid Meier's Alpha Centauri™~~ - Also on Origin
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
 * ✔ [SimCity 2000 Special Edition](https://www.gog.com/en/game/simcity_2000_special_edition)
@@ -304,8 +304,8 @@ T
 * ∅ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
 * ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2) - Includes:
-    * ✔ Mean Streets (also on Steam, but GOG version has wider language support (e.g. French))
-    * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
+    * ✔ Mean Streets - Also on Steam, but GOG version has wider language support (e.g. French)
+    * ✔ Martian Memorandum - Also on Steam, but GOG version has wider language support (e.g. French)
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - Also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available
