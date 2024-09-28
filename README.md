@@ -82,7 +82,7 @@ If appropriate, please update the *Last check and cleanup*, *New games added*, *
 A
 
 * ✔ [Adventures of Willy Beamish, The](https://www.gog.com/game/the_adventures_of_willy_beamish)
-* ✔ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
+* ∅ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
 * ✔ [Al-Qadim: The Genie's Curse](https://www.gog.com/game/alqadim_the_genies_curse)
 * ✔ [Anvil of Dawn](https://www.gog.com/game/anvil_of_dawn)
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
@@ -177,7 +177,7 @@ I
 
 * ✔ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
-* ♥ [I.G.I. 2: Covert Strike](https://www.gog.com/index.php/en/game/i_g_i_2_covert_strike)
+* ✔ [I.G.I. 2: Covert Strike](https://www.gog.com/index.php/en/game/i_g_i_2_covert_strike)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) - Also available in the Humble Trove, but not in the Humble Store
     * Even More Incredible Machine
     * The Incredible Machine 3 (contains all levels from The Incredible Machine 2)
@@ -277,7 +277,7 @@ S
     * ✔ ~~Sid Meier's Alpha Centauri™~~ - Also on Origin
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
-* ✔ [SimCity 2000 Special Edition](https://www.gog.com/en/game/simcity_2000_special_edition)
+* ♥ [**SimCity 2000 Special Edition**](https://www.gog.com/en/game/simcity_2000_special_edition)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
 * ✔ [Soldier of Fortune: Payback](https://www.gog.com/game/soldier_of_fortune_payback)
@@ -290,7 +290,7 @@ S
 * ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil)
 * ✔ [Star Trek™: Starfleet Command III](https://www.gog.com/game/star_trek_starfleet_command_iii)
 * ✔ [Star Trek™: Voyager - Elite Force](https://www.gog.com/game/star_trek_voyager_elite_force)
-* ♥ [**Stranglehold**](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
+* ✔ [Stranglehold](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
 * ✔ [Street Fighter Alpha 2](https://www.gog.com/game/street_fighter_alpha_2)
 * ✔ [Strike Commander](https://www.gog.com/game/strike_commander)
 * ✔ [Suffering, The](https://www.gog.com/game/the_suffering)
@@ -311,7 +311,7 @@ T
 * ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - Also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
-* ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
+* ∅ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
 * ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
 
 U
@@ -334,7 +334,7 @@ W
 * ✔ [World in Conflict: Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
-* ✔ [Worms 2](https://www.gog.com/en/game/worms_2)
+* ♥ [**Worms 2**](https://www.gog.com/en/game/worms_2)
 
 X
 
