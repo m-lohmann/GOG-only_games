@@ -51,22 +51,26 @@ Other platforms used to check for exclusivity:
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-04-14 10:11:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-09-24 20:52:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* Stranglehold
-* I.G.I. 2: Covert Strike
+* SimCity 2000 Special Edition
+* Worms 2
 
 ### Games removed at last check:
 
+* Avernum 4
+* Avernum 5
+* Avernum 6
+* D&D Stronghold: Kingdom Simulator
+* Konung 2: Blood of Titans
+* Legacy of Kain: Soul Reaver
+* Simcity 3000 Unlimited
+
 ### Other recent changes
 
-* added comment about regional blocking.
-
 ### New platform for cross checks added
-
-* itch.io as a new platform
 
 ## Final remarks
  
@@ -92,9 +96,6 @@ A
     * Avernum 2 ("Rebooted" version titled Avernum 2: Crystal Souls available on Steam, but not the original version.)
     * Avernum 3 ("Rebooted" version titled Avernum 3: Ruined World available on Steam, but not the original version.)
     * Blades of Avernum
-    * ~~Avernum 4~~ (also on Steam)
-    * ~~Avernum 5~~ (also on Steam)
-    * ~~Avernum 6~~ (also on Steam)
 
 B
 
@@ -114,7 +115,6 @@ B
 
 D
 
-* ✔ [~~D&D Stronghold: Kingdom Simulator~~](https://www.gog.com/game/dd_stronghold_kingdom_simulator) - (also on Steam)
 * ✔ [Dagger of Amon Ra, The](https://www.gog.com/game/the_dagger_of_amon_ra)
 * ✔ [Dangerous Dave Pack](https://www.gog.com/game/dangerous_dave_pack)
 * ✔ [Dark Reign + Expansion](https://www.gog.com/game/dark_reign_expansion)
@@ -209,12 +209,11 @@ K
 
 * ✔ [~~Konung 1+2~~](https://www.gog.com/game/konung_1_2) - Also on Zoom
     * Konung: Legend of the North
-    * ~~Konung 2: Blood of Titans~~ (also on Steam)
 
 L
 
 * ✔ [Last Express, The](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
-* ✔ [Legacy of Kain: Soul Reaver](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Also available on Steam, but GOG version has wider language support, e.g. French
+* ✘ [~~Legacy of Kain: Soul Reaver~~](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Delisted
 * ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
 * ✔ [Legend Of Kyrandia: Hand Of Fate, The (Book Two)](https://www.gog.com/game/legend_of_kyrandia_hand_of_fate)
@@ -283,7 +282,7 @@ S
     * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
-* ✔ [Simcity 3000 Unlimited](https://www.gog.com/game/simcity_3000)
+* ✔ [SimCity 2000 Special Edition](https://www.gog.com/en/game/simcity_2000_special_edition)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
 * ✔ [Soldier of Fortune: Payback](https://www.gog.com/game/soldier_of_fortune_payback)
@@ -342,6 +341,7 @@ W
 * ✔ [World in Conflict: Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
+* ✔ [Worms 2](https://www.gog.com/en/game/worms_2)
 
 X
 
