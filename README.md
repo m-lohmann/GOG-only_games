@@ -119,10 +119,7 @@ D
 * ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [~~Diablo + Hellfire~~](https://www.gog.com/game/diablo) - Also on Battle.net
-* ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series) - Also available on Steam as part of the Gold Box Classics Bundle
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
-* ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series) - Also available on Steam as part of the Gold Box Classics Bundle
-* ✘ [~~Dungeons & Dragons: Ravenloft Series~~](https://www.gog.com/game/dungeons_dragons_ravenloft_series) - Also available on Steam as part of the Gold Box Classics Bundle
 
 E
 
@@ -222,7 +219,6 @@ M
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
-* ✘ [~~Metal Gear Solid 2 Substance~~](https://www.gog.com/game/metal_gear_solid_2_substance) - Delisted
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition) - Includes:
     * Might and Magic 1 - Book I
     * Might and Magic 2 - Gates to Another World
