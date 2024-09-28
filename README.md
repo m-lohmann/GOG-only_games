@@ -301,7 +301,7 @@ S
 
 T
 
-* ∅ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
+* ∅ [Teenagent **FREE!**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
 * ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2) - Includes:
     * ✔ Mean Streets - Also on Steam, but GOG version has wider language support (e.g. French)
@@ -312,7 +312,7 @@ T
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
 * ∅ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
-* ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
+* ∅ [Tyrian 2000 **FREE!**](https://www.gog.com/game/tyrian_2000)
 
 U
 
