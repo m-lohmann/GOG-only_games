@@ -6,7 +6,7 @@ Although you still might get old CDs or DVDs of a lot of games, GOG maintains co
 
 ## GOG Exclusive Games
 
-My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, and Uplay by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
+My list of GOG exclusive games (games that are neither on Steam nor on Origin) is originally based on the link above. (`✔` = Cross-checked against Steam, Origin, Zoom, etc... by me and others.) A list including all stuff, old and “new”. Feel free to let me know about any errors, etc.
 
 ## Free Games on GOG
 
@@ -34,43 +34,40 @@ It only takes a few simple steps:
 
 ## Cleanup
 
-I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Recent additions will be marked with a `♥` and in boldface.
+I’ll strike through games that got recently taken off the list, so everyone can see more recent changes more easily. Delisted games, in particular, will be denoted with `✘`. Recent additions will be marked with a `♥` and in boldface.
 I’ll clean up the list every few weeks.
+
 ## Platforms this list is checked against
 
-Other platforms used to check for exclusivity:
+Please verify against <ins>all</ins> of these platforms before submitting addenda or abatement.
 
-* [Zoom Store](https://www.zoom-platform.com/#store)
-* [Gamersgate](https://www.gamersgate.com/) (only if checked by others)
-* [FireFlowerGames](https://fireflowergames.com) (only if checked by others)
-* [Steam](https://store.steampowered.com/)
-* [Origin](https://www.origin.com/)
+* [Battle.net](https://shop.battle.net/)
+* [FireFlowerGames](https://fireflowergames.com)
+* [Gamersgate](https://www.gamersgate.com/)
 * [Humble Store](https://www.humblebundle.com/store)
 * [Humble Trove](https://www.humblebundle.com/subscription/trove)
-* [itch.io](https://itch.io/) (only if checked by others)
+* [itch.io](https://itch.io/)
+* [Origin](https://www.origin.com/)
+* [Steam](https://store.steampowered.com/)
+* [Zoom Store](https://www.zoom-platform.com/#store)
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-09-24 20:52:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2024-09-28 19:04:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
-* SimCity 2000 Special Edition
-* Worms 2
-
 ### Games removed at last check:
 
-* Avernum 4
-* Avernum 5
-* Avernum 6
-* D&D Stronghold: Kingdom Simulator
-* Konung 2: Blood of Titans
-* Legacy of Kain: Soul Reaver
-* Simcity 3000 Unlimited
+* Diablo + Hellfire
+* WarCraft: Orcs & Humans
+* WarCraft II: Battle.net Edition
 
 ### Other recent changes
 
 ### New platform for cross checks added
+
+* [Battle.net](https://shop.battle.net/)
 
 ## Final remarks
  
@@ -85,7 +82,7 @@ If appropriate, please update the *Last check and cleanup*, *New games added*, *
 A
 
 * ✔ [Adventures of Willy Beamish, The](https://www.gog.com/game/the_adventures_of_willy_beamish)
-* ✔ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
+* ∅ [Akalabeth: World of Doom **FREE!**](https://www.gog.com/game/akalabeth_world_of_doom)
 * ✔ [Al-Qadim: The Genie's Curse](https://www.gog.com/game/alqadim_the_genies_curse)
 * ✔ [Anvil of Dawn](https://www.gog.com/game/anvil_of_dawn)
 * ✔ [Apache Longbow](https://www.gog.com/game/apache_longbow)
@@ -103,7 +100,7 @@ B
 * ✔ [Baldur‘s Gate II Complete](https://www.gog.com/de/game/baldurs_gate_2_enhanced_edition) - Can be claimed on GOG by buying **Baldur’s Gate II: Enhanced Edition**. Details on how to claim the original version can be found on the [GOG game page.](https://support.gog.com/hc/en-us/articles/9003815382813-Baldur-s-Gate-2-Complete-Classic-Version?product=gog)
 * ✔ [Battle Isle Platinum (includes Incubation)](https://www.gog.com/game/battle_isle_platinum)
 * ✔ [Battle Isle: The Andosia War](https://www.gog.com/game/battle_isle_the_andosia_war)
-* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) (also available on Steam)
+* ∅ → [Beneath A Steel Sky **FREE!**](https://www.gog.com/game/beneath_a_steel_sky) - Also on Steam
 * ✔ [Beyond Good & Evil™](https://www.gog.com/de/game/beyond_good_and_evil) - Also available on Steam and Ubisoft, but GOG has the only working original version. The Ubisoft version has re-mastered gfx, models, and musical score.
 * ✔ [Bioforge](https://www.gog.com/game/bioforge)
 * ✔ [Blood Omen: Legacy of Kain](https://www.gog.com/de/game/blood_omen_legacy_of_kain)
@@ -121,13 +118,8 @@ D
 * ✔ [Dark Reign 2](https://www.gog.com/game/dark_reign_2)
 * ✔ [Deadlock: Planetary Conquest](https://www.gog.com/de/game/deadlock_planetary_conquest) - Also available on Steam, but only GOG version works on Windows 10/11
 * ✔ [Deadlock II: Shrine Wars](https://www.gog.com/de/game/deadlock_2_shrine_wars) - Also available on Steam, but only GOG version works on Windows 10/11
-* ✔ [Diablo + Hellfire](https://www.gog.com/game/diablo), containing
-    * Diablo
-    * Hellfire
-* ✘ [~~Dungeons & Dragons: Dark Sun Series~~](https://www.gog.com/game/dungeons_dragons_dark_sun_series) - Also available on Steam as part of the Gold Box Classics Bundle
+* ✔ [~~Diablo + Hellfire~~](https://www.gog.com/game/diablo) - Also on Battle.net
 * ✔ [Dungeons & Dragons: Dragonshard](https://www.gog.com/game/dungeons_dragons_dragonshard)
-* ✘ [~~Dungeons & Dragons: Krynn Series~~](https://www.gog.com/game/dungeons_dragons_krynn_series) - Also available on Steam as part of the Gold Box Classics Bundle
-* ✘ [~~Dungeons & Dragons: Ravenloft Series~~](https://www.gog.com/game/dungeons_dragons_ravenloft_series) - Also available on Steam as part of the Gold Box Classics Bundle
 
 E
 
@@ -159,8 +151,8 @@ G
 * ✔ [Gangsters: Organized Crime](https://www.gog.com/game/gangsters_organized_crime)
 * ✔ [Gex](https://www.gog.com/game/gex)
 * ✔ [Great Battles Collector's Edition](https://www.gog.com/de/game/great_battles_collectors_edition). Two of the games are also sold on itch.io,but the whole collection is only available on GOG.
-    * The Great Battles of Alexander (also on itch.io)
-    * The Great Battles of Hannibal (also on itch.io)
+    * The Great Battles of Alexander - Also on itch.io
+    * The Great Battles of Hannibal - Also on itch.io
     * The Great Battles of Caesar
 
 H
@@ -182,7 +174,7 @@ I
 
 * ✔ [In Cold Blood](https://www.gog.com/de/game/in_cold_blood)
 * ✔ [Icewind Dale 2 Complete](https://www.gog.com/game/icewind_dale_2)
-* ♥ [I.G.I. 2: Covert Strike](https://www.gog.com/index.php/en/game/i_g_i_2_covert_strike)
+* ✔ [I.G.I. 2: Covert Strike](https://www.gog.com/index.php/en/game/i_g_i_2_covert_strike)
 * ✔ [Incredible Machine Mega Pack, The](https://www.gog.com/game/the_incredible_machine_mega_pack) - Also available in the Humble Trove, but not in the Humble Store
     * Even More Incredible Machine
     * The Incredible Machine 3 (contains all levels from The Incredible Machine 2)
@@ -222,12 +214,11 @@ L
 M
 
 * ✔ [Magic Carpet Plus](https://www.gog.com/game/magic_carpet) - Includes:
-    * ✔ ~~Magic Carpet~~ (also on Origin)
+    * ✔ ~~Magic Carpet~~ - Also on Origin
     * ✔ Magc Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
-* ✘ [~~Metal Gear Solid 2 Substance~~](https://www.gog.com/game/metal_gear_solid_2_substance) - Delisted
 * ✔ [Might And Magic® 6-Pack Limited Edition](https://www.gog.com/game/might_and_magic_6_limited_edition) - Includes:
     * Might and Magic 1 - Book I
     * Might and Magic 2 - Gates to Another World
@@ -279,10 +270,10 @@ S
 * ✔ [Shivers](https://www.gog.com/game/shivers)
 * ✔ [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls)
 * ✔ [Sid Meier's Alpha Centauri™ Planetary Pack](https://www.gog.com/game/sid_meiers_alpha_centauri) - A bundle of:
-    * ✔ ~~Sid Meier's Alpha Centauri™~~ (also on Origin)
+    * ✔ ~~Sid Meier's Alpha Centauri™~~ - Also on Origin
     * ✔ Sid Meier's Alien Crossfire™
 * ✔ [Silent Hill 4: The Room](https://www.gog.com/game/silent_hill_4_the_room)
-* ✔ [SimCity 2000 Special Edition](https://www.gog.com/en/game/simcity_2000_special_edition)
+* ♥ [**SimCity 2000 Special Edition**](https://www.gog.com/en/game/simcity_2000_special_edition)
 * ✔ [Soldier of Fortune: Platinum Edition](https://www.gog.com/game/soldier_of_fortune_platinum_edition)
 * ✔ [Soldier of Fortune 2: Double Helix - Gold Edition](https://www.gog.com/game/soldier_of_fortune_ii_double_helix_gold_edition)
 * ✔ [Soldier of Fortune: Payback](https://www.gog.com/game/soldier_of_fortune_payback)
@@ -295,7 +286,7 @@ S
 * ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil)
 * ✔ [Star Trek™: Starfleet Command III](https://www.gog.com/game/star_trek_starfleet_command_iii)
 * ✔ [Star Trek™: Voyager - Elite Force](https://www.gog.com/game/star_trek_voyager_elite_force)
-* ♥ [**Stranglehold**](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
+* ✔ [Stranglehold](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
 * ✔ [Street Fighter Alpha 2](https://www.gog.com/game/street_fighter_alpha_2)
 * ✔ [Strike Commander](https://www.gog.com/game/strike_commander)
 * ✔ [Suffering, The](https://www.gog.com/game/the_suffering)
@@ -306,18 +297,18 @@ S
 
 T
 
-* ∅ [Teenagent **FREE**](https://www.gog.com/game/teenagent)
+* ∅ [Teenagent **FREE!**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
 * ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2) - Includes:
-    * ✔ Mean Streets (also on Steam, but GOG version has wider language support (e.g. French))
-    * ✔ Martian Memorandum (also on Steam, but GOG version has wider language support (e.g. French))
+    * ✔ Mean Streets - Also on Steam, but GOG version has wider language support (e.g. French)
+    * ✔ Martian Memorandum - Also on Steam, but GOG version has wider language support (e.g. French)
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - Also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available
 * ✔ [Torin's Passage](https://www.gog.com/game/torins_passage)
 * ✔ [Total Overdose: A Gunslinger's Tale In Mexico](https://www.gog.com/game/total_overdose_a_gunslingers_tale_in_mexico)
-* ✔ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
-* ∅ [Tyrian 2000 **FREE**](https://www.gog.com/game/tyrian_2000)
+* ∅ [Treasure Adventure Game  **FREE!**](https://www.gog.com/game/treasure_adventure_game)
+* ∅ [Tyrian 2000 **FREE!**](https://www.gog.com/game/tyrian_2000)
 
 U
 
@@ -327,9 +318,7 @@ V
 
 W
 
-* ✔ [Warcraft I & II Bundle](https://www.gog.com/game/warcraft_bundle) - Includes:
-    * Warcraft: Orcs and Humans
-    * Warcraft II Battle.net Edition
+* ✔ [~~Warcraft I & II Bundle~~](https://www.gog.com/game/warcraft_bundle) - Also on Battle.net
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
@@ -341,7 +330,7 @@ W
 * ✔ [World in Conflict: Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition)
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
-* ✔ [Worms 2](https://www.gog.com/en/game/worms_2)
+* ♥ [**Worms 2**](https://www.gog.com/en/game/worms_2)
 
 X
 
