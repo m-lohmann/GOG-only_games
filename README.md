@@ -331,6 +331,7 @@ W
 * ∅ [Worlds Of Ultima™ : The Savage Empire **FREE!**](https://www.gog.com/game/worlds_of_ultima_the_savage_empire)
 * ✔ [World Rally Fever: Born on The Road](https://www.gog.com/game/world_rally_fever_born_on_the_road)
 * ♥ [**Worms 2**](https://www.gog.com/en/game/worms_2)
+* ✔ [[Worms Forts: Under Siege](https://www.gog.com/en/game/worms_forts_under_siege)
 
 X
 
